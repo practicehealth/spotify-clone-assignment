@@ -27,6 +27,7 @@ Populate the data.json file with mock data for your application. This data will 
 
 #### Create Pages:
 Implement the logic for routing and create the necessary React components for the homepage, search page, and search results page (if you choose to include it). Ensure that the pages display the correct content and styles.
+The design should be responsive on all devices including smartphones, tablets, and desktops.
 
 #### Screenshots
 Here are the screenshots of the pages you need to create:
