@@ -28,7 +28,16 @@ Populate the data.json file with mock data for your application. This data will 
 #### Create Pages:
 Implement the logic for routing and create the necessary React components for the homepage, search page, and search results page (if you choose to include it). Ensure that the pages display the correct content and styles.
 
-Testing: Test your application locally to ensure that all features work as expected. Use the Vite development server to run your application:
+#### Screenshots
+Here are the screenshots of the pages you need to create:
+
+Homepage: ![Homepage](images/homepage.png)
+
+Search Page: ![SearchPage](images/search.png)
+
+(Optional) Search Results Page:![SearchResults](images/search-result2.png)
+
+#### Testing: Test your application locally to ensure that all features work as expected. Use the Vite development server to run your application:
 
 ```bash
 npm run dev
@@ -50,15 +59,14 @@ git push origin main
 #### Make a Pull Request:
  Finally, navigate to your forked repository on GitHub and create a pull request to submit your changes. Provide a descriptive title and details about the changes you've made.
 
-Screenshots
-Here are the screenshots of the pages you need to create:
 
-Homepage: ![Homepage](images/homepage.png)
-Search Page: ![SearchPage](images/search.png)
-(Optional) Search Results Page:![SearchResults](images/search-result2.png)
 Resources
 [React Documentation](https://react.dev/)
+
 [Vite Documentation](https://vitejs.dev/guide/)
+
 [Tailwind CSS Documentation](https://tailwindcss.com/docs)
+
 [Spotify UI For Reference](https://open.spotify.com/)
+
 If you have any questions or need clarification on any aspect of the assignment, don't hesitate to reach out. Good luck!
