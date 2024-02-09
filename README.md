@@ -58,8 +58,7 @@ Push your commits to your forked repository on GitHub:
 git push origin main
 ```
 #### Make a Pull Request:
- Finally, navigate to your forked repository on GitHub and create a pull request to submit your changes. Provide a descriptive title and details about the changes you've made.
-
+Finally, navigate to your forked repository on GitHub and create a pull request to submit your changes. Provide a descriptive title and details about the changes you've made. and your internshala name and email along with the PR.
 
 Resources
 [React Documentation](https://react.dev/)
