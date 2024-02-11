@@ -1,0 +1,43 @@
+{ 
+    "SpotifyPlaylists": [
+        {
+            "title": "Today's Top Hits",
+            "description": "Benson Boone is on top of the Hottest 50!",
+            "imageUrl": "assets/image1"
+        },
+        {
+            "title": "Chillhop",
+            "description": "Blissed out beats and head nodding grooves",
+            "imageUrl": "assets/image1"
+        }, 
+        {
+            "title": "Jazz in the Background",
+            "description": "Soft Instrumental Jazz for all your activities",
+            "imageUrl": "assets/image1"
+        }, 
+        {
+            "title": "Calming Acoustic",
+            "description": "Keep calm with instrumental acoustic",
+            "imageUrl": "assets/image1"
+        },
+        {
+            "title": "big on the internet",
+            "description": "iykyk",
+            "imageUrl": "assets/image1"
+        }
+    ], 
+    "Sleep" : [
+        {
+            "title":"Sleep",
+            "description": "Gentle Ambient piano to help you fall asleep.",
+            "imageUrl": "assets/image1"
+        },
+        {
+            "title":"DayDreamer",
+            "description": "Drift away with enthralling instruments",
+            "imageUrl": "assets/image1"
+        }
+
+    ]
+
+}
