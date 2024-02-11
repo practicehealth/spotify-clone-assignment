@@ -5,6 +5,7 @@
 :root { 
   --background-dark: #000;
   --background-light-dark: #121212; 
+  --background-light : #242424;
   --text-white: #FFFFFF;
 }
 
@@ -19,4 +20,8 @@ body {
 
 .bg-light-dark { 
     background-color : var(--background-light-dark);
+}
+
+.bg-light-black { 
+    background-color : var(--background-light);
 }

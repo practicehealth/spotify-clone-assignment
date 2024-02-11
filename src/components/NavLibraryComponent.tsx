@@ -1,5 +1,8 @@
+import React from "react" ;
+import PlaylistComponent from "./PlaylistComponent";
+import PodcastComponent from "./PodcastComponent";
 
-export default function NavLibraryComponent() { 
+export default function NavLibraryComponent(): React.JSX.Element { 
     return ( 
         <div className="bg-light-dark flex flex-col px-5 py-2 my-2 rounded-lg">
             <div className="flex flex-col">
@@ -10,6 +13,8 @@ export default function NavLibraryComponent() {
                     </div>
                     <img className="w-4 h-4" alt="Add" src="assets/add.svg"/>
                 </div>
+                <PlaylistComponent/>
+                <PodcastComponent/>
             </div>
         </div>
     )
