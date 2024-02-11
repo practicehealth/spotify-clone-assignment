@@ -1,6 +1,7 @@
 import { AiOutlinePlus } from 'react-icons/ai';
 import { TbPlaylist } from 'react-icons/tb';
 import LibraryCard from './LibraryCard';
+import Links from './Links';
 
 const Library = () => {
   return (
@@ -21,7 +22,7 @@ const Library = () => {
         />
       </div>
       <div className="flex flex-col gap-y-2 mt-4 px-3">
-        <div className="overflow-y-scroll scrollbar h-[250px] [&::-webkit-scrollbar]:w-3 [&::-webkit-scrollbar]:border">
+        <div className="overflow-y-scroll scrollbar h-[350px] [&::-webkit-scrollbar]:w-3 [&::-webkit-scrollbar]:border">
           <LibraryCard
             title="Create your first playlist"
             subtitle="It's easy, we'll help you."
@@ -33,6 +34,7 @@ const Library = () => {
             buttonText="Explore podcasts"
           />
         </div>
+        <Links />
       </div>
     </div>
   );
