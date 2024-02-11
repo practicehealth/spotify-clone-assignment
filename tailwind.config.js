@@ -5,7 +5,11 @@ export default {
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
-    extend: {},
+    extend: {
+      gridAutoRows: {
+        auto: 'auto', // sets grid-auto-rows to 'auto'
+      },
+    },
   },
   plugins: [],
 }

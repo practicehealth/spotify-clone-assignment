@@ -11,8 +11,8 @@ export default function Header() {
                 </li>
                 </ul>
                 <ul className="flex gap-4 justify-center items-center">
-                <li className="text-[#a4a4a4]">Sign up</li>
-                <div className="bg-white rounded-2xl w-20 py-2 flex justify-center items-center">
+                <li className="text-[#a4a4a4] cursor-pointer">Sign up</li>
+                <div className="bg-white rounded-2xl w-20 py-2 flex justify-center items-center cursor-pointer">
                 <li className="text-black font-semibold">Log in</li>
                 </div>
                 </ul>
