@@ -1,9 +1,9 @@
-import Footer from "./footer"
-import Header from "./header"
-import Library from "./library"
-import Menu from "./menu"
-import Playlist from "./playlist"
-import SingupFooter from "./singupfooter"
+import Footer from "../components/footer"
+import Header from "../components/header"
+import Library from "../components/library"
+import Menu from "../components/menu"
+import Playlist from "../components/playlist"
+import SingupFooter from "../components/singupfooter"
 
 
 function Home() {
@@ -22,7 +22,17 @@ function Home() {
       <div className="fixed bottom-0 right-0 left-0 w-full">
       <SingupFooter/>
       </div>
-    </div>
+      {/* <style global jsx>
+        {
+          `
+          body{
+            overflow: hidden;
+          }
+          `
+        }
+      </style> */}
+    </div> 
+    
   )
 }
 
