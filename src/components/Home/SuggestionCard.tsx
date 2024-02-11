@@ -21,4 +21,3 @@ export default function SuggestionCard({title, description, imageUrl}: Suggestio
     )
 }  
 
-// 1ED760

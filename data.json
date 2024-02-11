@@ -38,6 +38,17 @@
             "imageUrl": "assets/sleep-1.jpeg"
         }
 
+    ], 
+    "Categories": [ 
+        "Podcasts",
+        "LiveEvents",
+        "Made For You",
+        "New Releases", 
+        "Hindi", 
+        "Punjabi",
+        "Tamil",
+        "Ghazals",
+        "Telugu",
+        "Trending"
     ]
-
 }
