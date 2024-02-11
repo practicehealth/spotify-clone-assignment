@@ -3,7 +3,7 @@ import LeftContainer from "./components/LeftContainer";
 function App() {
   return (
     <>
-      <div className="bg-dark">
+      <div className="">
         <LeftContainer/>
       </div>
     </>
