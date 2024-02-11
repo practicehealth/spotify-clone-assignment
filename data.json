@@ -3,39 +3,39 @@
         {
             "title": "Today's Top Hits",
             "description": "Benson Boone is on top of the Hottest 50!",
-            "imageUrl": "assets/image1"
+            "imageUrl": "assets/sleep-1.jpeg"
         },
         {
             "title": "Chillhop",
             "description": "Blissed out beats and head nodding grooves",
-            "imageUrl": "assets/image1"
+            "imageUrl": "assets/sleep-1.jpeg"
         }, 
         {
             "title": "Jazz in the Background",
             "description": "Soft Instrumental Jazz for all your activities",
-            "imageUrl": "assets/image1"
+            "imageUrl": "assets/sleep-1.jpeg"
         }, 
         {
             "title": "Calming Acoustic",
             "description": "Keep calm with instrumental acoustic",
-            "imageUrl": "assets/image1"
+            "imageUrl": "assets/sleep-1.jpeg"
         },
         {
             "title": "big on the internet",
             "description": "iykyk",
-            "imageUrl": "assets/image1"
+            "imageUrl": "assets/sleep-1.jpeg"
         }
     ], 
     "Sleep" : [
         {
             "title":"Sleep",
             "description": "Gentle Ambient piano to help you fall asleep.",
-            "imageUrl": "assets/image1"
+            "imageUrl": "assets/sleep-1.jpeg"
         },
         {
             "title":"DayDreamer",
             "description": "Drift away with enthralling instruments",
-            "imageUrl": "assets/image1"
+            "imageUrl": "assets/sleep-1.jpeg"
         }
 
     ]
