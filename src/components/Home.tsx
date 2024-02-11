@@ -1,21 +1,15 @@
+import { Outlet } from "react-router-dom"
 import Navbar from "./Navbar"
-import Sidebar from "./Sidebar";
-import Signup from "./Signup";
-import { Outlet } from "react-router-dom";
+import Signup from "./Signup"
+import { Sidebar } from "./Sidebar"
 
-
-const Home=()=>{
-
-    return (
-        <div className="relative">
-            <Navbar/>
-            <Sidebar/>
-            <Signup/>
-            <Outlet/>
-        </div>
-    )
-};
-
-
-
-export default Home;
+export const Home = () => {
+  return (
+    <div>
+        <Navbar />
+        <Sidebar />
+        <Outlet/>
+        <Signup />
+    </div>
+  )
+}

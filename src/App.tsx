@@ -1,27 +1,31 @@
-import Home from "./components/Home";
+import { Home } from "./components/Home";
 import PlayList from "./components/PlayList";
 import Search from "./components/Search";
-import { createBrowserRouter,RouterProvider } from "react-router-dom";
+import { createBrowserRouter, RouterProvider } from "react-router-dom";
 
 const App = () => {
-
-  const appRouter=createBrowserRouter([
+  const appRouter = createBrowserRouter([
     {
-        path:"/",
-        element: <PlayList/>
+      path: "/",
+      element: <Home />,
+      children: [
+        {
+          path: "/",
+          element: <PlayList />,
+        },
+        {
+          path: "/search",
+          element: <Search />,
+        },
+      ],
     },
-    {
-        path:"/search",
-        element:<Search/>
-    }
-]);
+  ]);
 
   return (
-    <div>
-      <RouterProvider router={appRouter}/>
-      <Home/>
+    <div className="bg-[#000] w-screen h-screen p-2">
+      <RouterProvider router={appRouter} />
     </div>
-  )
-}
+  );
+};
 
 export default App;
