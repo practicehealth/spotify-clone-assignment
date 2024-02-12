@@ -2,7 +2,7 @@ import Header from './components/Header';
 import PageContent from './components/PageContent';
 import Songs from '../src/data.json';
 function App() {
-  const songs = Songs.songs;
+  const playlists = Songs.playlists;
   return (
     <div
       className="
@@ -22,7 +22,7 @@ function App() {
         </div>
 
         {/* Render Song List here */}
-        <PageContent songs={songs} />
+        <PageContent songs={playlists} />
       </div>
     </div>
   );

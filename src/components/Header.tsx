@@ -9,9 +9,11 @@ import searchIcon from '../assets/search.png';
 interface HeaderProps {
   children?: React.ReactNode;
   className?: string;
+  searchQuery?: string;
+  onSearchChange?: (searchQuery: string) => void;
 }
 
-const Header: React.FC<HeaderProps> = ({ children, className }) => {
+const Header: React.FC<HeaderProps> = ({ children, className, searchQuery, onSearchChange }) => {
   const navigate = useNavigate();
   const { pathname } = useLocation();
   return (
@@ -67,7 +69,8 @@ const Header: React.FC<HeaderProps> = ({ children, className }) => {
               autoCapitalize="off"
               spellCheck="false"
               placeholder="Search for songs, artists, albums..."
-              value=""
+              value={searchQuery}
+              onChange={(e) => onSearchChange && onSearchChange(e.target.value)}
               className="bg-transparent border-0 text-ellipsis overflow-hidden whitespace-nowrap outline-none pt-0  pb-[0] pl-[12px]"
             />
           </div>
@@ -135,7 +138,8 @@ const Header: React.FC<HeaderProps> = ({ children, className }) => {
             autoCapitalize="off"
             spellCheck="false"
             placeholder="Search for songs, artists, albums..."
-            value=""
+            value={searchQuery}
+            onChange={(e) => onSearchChange && onSearchChange(e.target.value)}
             className="bg-transparent border-0 text-ellipsis overflow-hidden whitespace-nowrap outline-none pt-0 pr-[100px] pb-[0] pl-[12px]"
           />
         </div>
