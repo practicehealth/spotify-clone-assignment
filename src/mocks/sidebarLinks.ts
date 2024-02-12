@@ -1,19 +1,19 @@
-import { GoHomeFill } from "react-icons/go"
-import { GoHome } from "react-icons/go"
-import { LuSearch } from "react-icons/lu"
+import { GoHomeFill } from 'react-icons/go'
+import { GoHome } from 'react-icons/go'
+import { LuSearch } from 'react-icons/lu'
 
 const sidebarLinks = [
     {
-        title : "Home",
+        title : 'Home',
         unselectedIcon : GoHomeFill,
         selectedIcon : GoHome,
-        href : "/"
+        href : '/'
     },
     {
-        title : "Search",
+        title : 'Search',
         unselectedIcon : LuSearch,
         selectedIcon : LuSearch,
-        href  : "/search"
+        href  : '/search'
     },
 ];
 

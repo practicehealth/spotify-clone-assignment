@@ -1,27 +1,27 @@
 const sidebarFooterLinks = [
     {
-        title : "Legal",
-        href : "#"
+        title : 'Legal',
+        href : '#'
     },
     {
-        title : "Privacy Center",
-        href : "#"
+        title : 'Privacy Center',
+        href : '#'
     },
     {
-        title : "Privacy Policy",
-        href : "#"
+        title : 'Privacy Policy',
+        href : '#'
     },
     {
-        title : "Cookies",
-        href : "#"
+        title : 'Cookies',
+        href : '#'
     },
     {
-        title : "About Ads",
-        href : "#"
+        title : 'About Ads',
+        href : '#'
     },
     {
-        title : "Accessibility",
-        href : "#"
+        title : 'Accessibility',
+        href : '#'
     }
 ];
 

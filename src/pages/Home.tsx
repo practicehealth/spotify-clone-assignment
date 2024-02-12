@@ -1,19 +1,19 @@
-import Heading from "../components/Heading";
-import PlaylistCard from "../components/PlaylistCard";
-import playlists from "../mocks/playlists.json";
+import Heading from '../components/Heading';
+import PlaylistCard from '../components/PlaylistCard';
+import playlists from '../mocks/playlists.json';
 
 export default function Home() {
     return (
-        <div className="w-full bg-gradient">
-            <div className="pl-[24px] pr-[16px]">
-                <div className="flex flex-col gap-[24px]">
+        <div className='w-full bg-gradient'>
+            <div className='pl-[24px] pr-[16px]'>
+                <div className='flex flex-col gap-[24px]'>
                     <div>
                         <Heading
-                            title="Spotify Playlists"
+                            title='Spotify Playlists'
                             withBtn={true}
-                            btnText="Show all"
+                            btnText='Show all'
                         />
-                        <div className="mt-[4px] flex gap-[24px] flex-wrap">
+                        <div className='mt-[4px] flex gap-[24px] flex-wrap'>
                             {
                                 playlists.general.map((playlist) => (
                                     <PlaylistCard key={playlist.id} playlist={playlist} />
@@ -24,10 +24,10 @@ export default function Home() {
 
                     <div>
                         <Heading
-                            title="Sleep"
+                            title='Sleep'
                             withBtn={false}
                         />
-                        <div className="flex gap-[24px] flex-wrap">
+                        <div className='flex gap-[24px] flex-wrap'>
                             {
                                 playlists.sleep.map((playlist) => (
                                     <PlaylistCard key={playlist.id} playlist={playlist} />
