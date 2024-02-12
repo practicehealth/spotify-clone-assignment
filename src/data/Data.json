@@ -1,0 +1,168 @@
+{
+  "artists": [
+    { 
+      "id": 1, 
+      "name": "Arijit Singh", 
+      "genre": "Bollywood",
+      "image": "../images/arijit-singh.jpg",
+      "icon": "../images/spotifyicon.png"
+    },
+    { 
+      "id": 2, 
+      "name": "Neha Kakkar", 
+      "genre": "Bollywood",
+      "image": "../images/neha-kakkar.jpg",
+      "icon": "../images/spotifyicon.png"
+    },
+    { 
+      "id": 3, 
+      "name": "Badshah", 
+      "genre": "Hip Hop",
+      "image": "../images/badshah.jpg",
+      "icon": "../images/spotifyicon.png"
+    },
+    { 
+      "id": 4, 
+      "name": "A.R. Rahman", 
+      "genre": "Bollywood",
+      "image": "../images/ar-rahman.jpg",
+      "icon": "../images/spotifyicon.png"
+    },
+    { 
+      "id": 5, 
+      "name": "Yo Yo Honey Singh", 
+      "genre": "Hip Hop",
+      "image": "../images/yo-yo-honey-singh.jpg",
+      "icon": "../images/spotifyicon.png"
+    },
+    
+    { 
+      "id": 6, 
+      "name": "Guru Randhawa", 
+      "genre": "Punjabi Pop",
+      "image": "../images/guru-randhawa.jpg",
+      "icon": "../images/spotifyicon.png"
+    },
+    { 
+      "id": 7, 
+      "name": "Shreya Ghoshal", 
+      "genre": "Punjabi Pop",
+      "image": "../images/shreya-ghoshal.jpg",
+      "icon": "../images/spotifyicon.png"
+    },
+    { 
+      "id": 8, 
+      "name": "Chill Hits", 
+      "genre": "chill hits",
+      "image": "../images/chill Hits (1).jpg",
+      "icon": "../images/spotifyicon.png"
+    },
+    { 
+      "id": 9, 
+      "name": "Deep Focus", 
+      "genre": "deep focus",
+      "image": "../images/Deep Focus (1).jpg",
+      "icon": "../images/spotifyicon.png"
+    },
+    { 
+      "id": 10, 
+      "name": "Focus Flow", 
+      "genre": "focus flow",
+      "image": "../images/Focus Flow (1).jpg",
+      "icon": "../images/spotifyicon.png"
+    },
+    { 
+      "id": 11, 
+      "name": "Instrumental Study", 
+      "genre": "instrumental study",
+      "image": "../images/Instrumental Study (1).jpg",
+      "icon": "../images/spotifyicon.png"
+    },
+    { 
+      "id": 12, 
+      "name": "Peaceful Piano", 
+      "genre": "peaceful piano",
+      "image": "../images/Peaceful Piano.jpg",
+      "icon": "../images/spotifyicon.png"
+    },
+    { 
+      "id": 13, 
+      "name": "Reading Adventure", 
+      "genre": "reading adventure",
+      "image": "../images/Reading Adventure.jpg",
+      "icon": "../images/spotifyicon.png"
+    },
+    { 
+      "id": 14, 
+      "name": "Rock Classics", 
+      "genre": "rock classics",
+      "image": "../images/Rock Classics.jpg",
+      "icon": "../images/spotifyicon.png"
+    },
+    { 
+      "id": 15, 
+      "name": "The Sound of Bengaluru", 
+      "genre": "the sound of bengaluru",
+      "image": "../images/The Sound of Bengaluru.jpg",
+      "icon": "../images/spotifyicon.png"
+    },
+    { 
+      "id": 16, 
+      "name": "The Sound of Chennai", 
+      "genre": "the sound of chennai",
+      "image": "../images/The Sound of Chennai.jpg",
+      "icon": "../images/spotifyicon.png"
+    },
+    { 
+      "id": 17, 
+      "name": "The Sound of Delhi", 
+      "genre": "the sound of delhi",
+      "image": "../images/The Sound of Delhi.jpg",
+      "icon": "../images/spotifyicon.png"
+    },
+    { 
+      "id": 18, 
+      "name": "The Sound of Hyderabad", 
+      "genre": "the sound of hyderabad",
+      "image": "../images/The Sound of Hyderabad.jpg",
+      "icon": "../images/spotifyicon.png"
+    },
+    { 
+      "id": 19, 
+      "name": "The Sound of Kolkata", 
+      "genre": "the sound of kolkata",
+      "image": "../images/The Sound of Kolkata.jpg",
+      "icon": "../images/spotifyicon.png"
+    },
+    { 
+      "id": 20, 
+      "name": "The Sound of Mumbai", 
+      "genre": "the sound of Mumbai",
+      "image": "../images/The Sound of Mumbai.jpg",
+      "icon": "../images/spotifyicon.png"
+    },
+    { 
+      "id": 21, 
+      "name": "Today's Top Hits", 
+      "genre": "today's top hits",
+      "image": "../images/Today's Top Hits.jpg",
+      "icon": "../images/spotifyicon.png"
+    },
+    { 
+      "id": 22, 
+      "name": "Viva Latino", 
+      "genre": "viva latino",
+      "image": "../images/Viva Latino.jpg",
+      "icon": "../images/spotifyicon.png"
+    },
+    { 
+      "id": 23, 
+      "name": "Workday Lounge", 
+      "genre": "workday lounge",
+      "image": "../images/Workday Lounge.jpg",
+      "icon": "../images/spotifyicon.png"
+    }
+  ]
+}
+
+  
