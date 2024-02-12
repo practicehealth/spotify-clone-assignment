@@ -1,5 +1,4 @@
 
-
 export default function SearchNav() { 
     return (
         <div className="flex justify-between items-center px-2 py-4">
