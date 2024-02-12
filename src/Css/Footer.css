@@ -1,0 +1,41 @@
+.footer {
+    @apply fixed flex justify-between h-[65px] w-[97%] bg-[#282828] p-5 bottom-0;
+}
+
+.footer__right * .MuiSlider-root {
+    @apply text-[green];
+}
+
+.footer__left {
+    @apply flex items-center text-[white] w-[300px] flex-[0.3];
+}
+
+.footer__green {
+    @apply text-[#1ed15e];
+}
+
+.footer__center {
+    @apply flex-[0.4] text-[white] flex items-center justify-between max-w-[500px] px-[100px] py-0;
+}
+
+
+.footer__icon:hover,
+  .footer__green:hover {
+    @apply transition-transform duration-[0.2s] ease-[ease-in-out] scale-[1.2];
+}
+
+.footer__right {
+    @apply flex justify-between items-center text-[white] flex-[0.3];
+}
+
+.footer__albumLogo {
+    @apply h-[60px] w-[60px] object-contain mr-5;
+}
+
+.footer__songInfo > h4 {
+    @apply mb-[5px];
+}
+
+.footer__songInfo > p {
+    @apply text-xs;
+}

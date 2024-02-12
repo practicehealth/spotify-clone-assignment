@@ -1,0 +1,20 @@
+.header {
+    @apply flex justify-between mb-[30px];
+}
+
+.header__right {
+    @apply flex items-center;
+}
+
+.header__left {
+    @apply flex-[0.5] flex bg-[white] text-[gray] items-center p-2.5 rounded-[30px];
+}
+
+.header__left > input {
+    @apply w-full border-[none];
+}
+
+.header__right > h4 {
+    @apply ml-2.5;
+}
+  
