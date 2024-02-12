@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.scroll-col {
+    scrollbar-width: larger;
+    scrollbar-color: #5a5a5a #121212;
+    background-color: transparent;
+
+  }
+  
