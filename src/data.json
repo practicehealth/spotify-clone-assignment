@@ -1,46 +1,156 @@
 {
   "songs": [
     {
-      "id": 1,
-      "title": "Believer",
-      "artist": "Imagine Dragons",
-      "artwork": "https://upload.wikimedia.org/wikipedia/he/5/5c/Imagine-Dragons-Believer-art.jpg"
+      "id": "37i9dQZF1DWWQRwui0ExPn",
+      "title": "lofi beats",
+      "artist": "chill beats, lofi vibes, new tracks every week... ",
+      "artwork": "https://i.scdn.co/image/ab67706f0000000254473de875fea0fd19d39037"
     },
     {
-      "id": 2,
-      "title": "Shortwave",
-      "artist": "Ryan Grigdry",
-      "artwork": "https://m.media-amazon.com/images/M/MV5BZWUxOWIzOTYtMjBhYy00MWFiLWEzYTgtMzRiOTExOTA1ZWQ4XkEyXkFqcGdeQXVyNjI2ODA4MDU@._V1_.jpg"
+      "id": "37i9dQZF1DXcBWIGoYBM5M",
+      "title": "Today’s Top Hits",
+      "artist": "Benson Boone is on top of the Hottest 50!",
+      "artwork": "https://i.scdn.co/image/ab67706f00000002af29338e415c87776e74a574"
     },
     {
-      "id": 3,
-      "title": "Origins",
-      "artist": "Imagine Dragons",
-      "artwork": "https://upload.wikimedia.org/wikipedia/en/9/95/Origins_cover.png"
+      "id": "37i9dQZF1DWTvNyxOwkztu",
+      "title": "Chillout Lounge",
+      "artist": "Just lean back and enjoy relaxed beats.",
+      "artwork": "https://i.scdn.co/image/ab67706f00000002dec17246891b5b4eb97bdb0d"
     },
     {
-      "id": 4,
-      "title": "One Life",
-      "artist": "Mike Perry",
-      "artwork": "https://images.genius.com/5503afff8cf62a25d493d058f1764345.1000x1000x1.jpg"
+      "id": "37i9dQZF1DX2M1RktxUUHG",
+      "title": "All Out 2020s",
+      "artist": "The biggest songs of the 2020s.",
+      "artwork": "https://i.scdn.co/image/ab67706f00000002d771dc645afe9b87978b1d3e"
     },
     {
-      "id": 5,
-      "title": "Fire On Up",
-      "artist": "Paper Kings",
-      "artwork": "https://cdn.musicbed.com/image/upload/c_fill,dpr_auto,f_auto,g_auto,q_40,w_630,h_630/v1567689411/production/albums/5173"
+      "id": "37i9dQZF1DWV7EzJMK2FUI",
+      "title": "Jazz in the Background",
+      "artist": "Soft instrumental Jazz for all your activities.",
+      "artwork": "https://i.scdn.co/image/ab67706f00000002bdeb1c317ac2dd10f2397e4c"
     },
     {
-      "id": 6,
-      "title": "Here With Me",
-      "artist": "Marshmello feat. CHVRCHES",
-      "artwork": "https://upload.wikimedia.org/wikipedia/en/b/b8/Marshmello_featuring_Chvrches_-_Here_with_Me.png"
+      "id": "37i9dQZF1DX4WYpdgoIcn6",
+      "title": "Chill Hits",
+      "artist": "Kick back to the best new and recent chill hits.",
+      "artwork": "https://i.scdn.co/image/ab67706f00000002f4d83a6cb7f51f6d9f6717de"
     },
     {
-      "id": 7,
-      "title": "Something In The Way",
-      "artist": "Nirvana",
-      "artwork": "https://upload.wikimedia.org/wikipedia/en/b/b7/NirvanaNevermindalbumcover.jpg"
+      "id": "37i9dQZF1DX4sWSpwq3LiO",
+      "title": "Peaceful Piano",
+      "artist": "Peaceful piano to help you slow down, breathe, and relax. ",
+      "artwork": "https://i.scdn.co/image/ab67706f00000002d073e656e546e43bc387ad79"
+    },
+    {
+      "id": "37i9dQZF1DWXRqgorJj26U",
+      "title": "Rock Classics",
+      "artist": "Rock legends & epic songs that continue to inspire generations. Cover: Foo Fighters",
+      "artwork": "https://i.scdn.co/image/ab67706f0000000278b4745cb9ce8ffe32daaf7e"
+    },
+    {
+      "id": "37i9dQZF1DWXe9gFZP0gtP",
+      "title": "Stress Relief",
+      "artist": "Calm your mind from anxiety with gentle piano and ambient music.",
+      "artwork": "https://i.scdn.co/image/ab67706f00000002468762ec9fd93a2dc3b167ee"
+    },
+    {
+      "id": "37i9dQZF1DX4UtSsGT1Sbe",
+      "title": "All Out 80s",
+      "artist": "The biggest songs of the 1980s. Cover: Michael Jackson.",
+      "artwork": "https://i.scdn.co/image/ab67706f000000027876fe166a29b8e6b8db14da"
+    }
+  ],
+  "genres": [
+    {
+      "id": "1",
+      "name": "Happy Holidays",
+      "img": 1,
+      "bgColor": "#006450"
+    },
+    {
+      "id": "2",
+      "name": "Made for you",
+      "img": 2,
+      "bgColor": "#8400e7"
+    },
+    {
+      "id": "3",
+      "name": "Releases",
+      "img": 3,
+      "bgColor": "#1e3264"
+    },
+    {
+      "id": "4",
+      "name": "Creators",
+      "img": 4,
+      "bgColor": "#ff8c00"
+    },
+    {
+      "id": "5",
+      "name": "To Train",
+      "img": 5,
+      "bgColor": "#8c1932"
+    },
+    {
+      "id": "6",
+      "name": "Podcasts",
+      "img": 6,
+      "bgColor": "#e8115b"
+    },
+    {
+      "id": "7",
+      "name": "Country Side",
+      "img": 7,
+      "bgColor": "#537aa1"
+    },
+    {
+      "id": "8",
+      "name": "Samba & Pagode",
+      "img": 8,
+      "bgColor": "#8e66ac"
+    },
+    {
+      "id": "9",
+      "name": "funk",
+      "img": 9,
+      "bgColor": "#148a08"
+    },
+    {
+      "id": "10",
+      "name": "MBP",
+      "img": 10,
+      "bgColor": "#8c1932"
+    },
+    {
+      "id": "11",
+      "name": "Rock",
+      "img": 11,
+      "bgColor": "#e91529"
+    },
+    {
+      "id": "12",
+      "name": "Hip Hop",
+      "img": 12,
+      "bgColor": "#503750"
+    },
+    {
+      "id": "13",
+      "name": "Indie",
+      "img": 13,
+      "bgColor": "#d84000"
+    },
+    {
+      "id": "14",
+      "name": "Relax",
+      "img": 14,
+      "bgColor": "#ba5d07"
+    },
+    {
+      "id": "15",
+      "name": "Latin Music",
+      "img": 15,
+      "bgColor": "#001e50"
     }
   ]
 }

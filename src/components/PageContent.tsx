@@ -24,8 +24,8 @@ const PageContent: React.FC<PageContentProps> = ({ songs }) => {
           mt-4
         "
     >
-      {songs.map((item) => (
-        <SongItem key={item.id} data={item} />
+      {songs.map((item, index) => (
+        <SongItem key={index} data={item} />
       ))}
     </div>
   );

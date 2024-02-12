@@ -18,3 +18,25 @@ body {
 .scrollbar::-webkit-scrollbar-thumb {
   background-color: #929292;
 }
+
+.cards {
+  position: relative;
+  width: 220px;
+  height: 200px;
+  overflow: hidden;
+  border-radius: 8px;
+}
+
+.cards span {
+  position: absolute;
+  font-weight: 700;
+}
+
+.cards img {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  height: auto;
+  width: 107px;
+  transform: rotate(25deg) translate(18%, -2%);
+}
