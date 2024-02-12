@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "title": "Podcasts",
+    "image": "https://i.scdn.co/image/ab6765630000ba8aa3ccdbf467a2fa4ed8f18a6e",
+    "color":"#1f7d07",
+    "artists": ["Artist A", "Artist B", "Artist C"]
+  },
+  {
+    "id": 2,
+    "title": "Live Events",
+    "image": "https://images.squarespace-cdn.com/content/v1/5f724c2854366f48cbcfa30c/5ae42751-7614-4d4b-8e00-f4fcd7d2da52/Live+Music+Events+%7C+Music+Event+Production+Company",
+    "color":"#056aa1",
+    "artists": ["Artist X", "Artist Y", "Artist Z"]
+  },
+  {
+    "id": 3,
+    "title": "Made For You",
+    "image": "https://i.scdn.co/image/ab67706c0000da84836e2b0fa10fe9cf9ca9a854",
+    "artists": ["Artist P", "Artist Q", "Artist R"],
+    "color":"#1d0b85"
+  },
+  {
+    "id": 4,
+    "title": "New Releases",
+    "image": "https://i.scdn.co/image/ab67706f0000000234f6818fe72a6d1bc31e6245",
+    "artists": ["Artist E1", "Artist E2", "Artist E3"],
+    "color":"#e00922"
+  },
+  {
+    "id": 5,
+    "title": "Hindi",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ5LMxLfNX6dYh5OGX6km6LdKFyq5IsnEMrNpowsPXubNCoRoO13fSl_C89hVMeW4a4_0&usqp=CAU",
+    "artists": ["Artist C1", "Artist C2", "Artist C3"],
+    
+    "color":"#bf086a"
+  },
+  {
+    "id": 6,
+    "title": "Punjabi",
+    "image": "https://i.scdn.co/image/ab67616d0000b273161558fed9777b60f278c4b8",
+    "artists": ["Artist J1", "Artist J2", "Artist J3"]
+    ,
+    "color":"#4a0329"
+  },
+  {
+    "id": 7,
+    "title": "Tamil",
+    "image": "https://i.scdn.co/image/ab67616d0000b273e147455416012e89946a57e3",
+    "artists": ["Artist I1", "Artist I2", "Artist I3"],
+    "color":"#a1530e"
+  },
+  {
+    "id": 8,
+    "title": "Ghazals",
+    "image": "https://i.scdn.co/image/ab67706f00000002ea164e68ba399e95c9db6aa0",
+    "artists": ["Artist Co1", "Artist Co2", "Artist Co3"],
+    "color":"#787572"
+  },
+  {
+    "id": 9,
+    "title": "Podcasts Charts" ,
+    "image": "https://post.medicalnewstoday.com/wp-content/uploads/sites/3/2022/09/headphone-commute-hearing-loss-header-1024x575.jpg",
+    "artists": ["Artist Re1", "Artist Re2", "Artist Re3"],
+    "color":"#12e0da"
+  },
+  {
+    "id": 10,
+    "title": "Podcasts New Releases",
+    "image": "https://i1.sndcdn.com/avatars-000651925227-08r85z-t240x240.jpg",
+    "artists": ["Artist B1", "Artist B2", "Artist B3"],
+    "color":"#b5a3d4"
+  },
+  {
+    "id": 11,
+    "title": "Video Podcasts",
+    "image": "https://variety.com/wp-content/uploads/2022/02/Spotify-Joe-Rogan-Experience.png?w=1024",
+    "artists": ["Artist RB1", "Artist RB2", "Artist RB3"],
+    "color":"#ed2a07"
+  },
+  {
+    "id": 12,
+    "title": "Buisness & technology",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjskoiC5qk-XKclMLKzzmf2J6F73-gOWt6R6Uj-jIZQIe_s-u_SvJOgyZHOrI2gzmctWg&usqp=CAU",
+    "artists": ["Artist F1", "Artist F2", "Artist F3"],
+    "color":"#8a8483"
+  },
+  {
+    "id": 13,
+    "title": "Charts",
+    "image": "https://i.scdn.co/image/ab67706c0000da84f71afded6326f0b319311eb9",
+    "artists": ["Artist M1", "Artist M2", "Artist M3"],
+    "color":"#937c9c"
+  },
+  {
+    "id": 14,
+    "title": "Telugu",
+    "image": "https://i.scdn.co/image/ab67706f0000000292e04b40869aaffeaaea549b",
+    "artists": ["Artist A1", "Artist A2", "Artist A3"],
+    "color":"#3e4fc3"
+  },
+  {
+    "id": 15,
+    "title": "Pop",
+    "image": "https://www.musicgrotto.com/wp-content/uploads/2022/01/pop-songs-for-altos-graphic-art.jpg",
+    "artists": ["Artist S1", "Artist S2", "Artist S3"],
+    "color":"#3ec341"
+  },
+  {
+    "id": 16,
+    "title": "Indie",
+    "image": "https://i.ytimg.com/vi/K30G3pmrEPY/maxresdefault.jpg",
+    "artists": ["Artist PR1", "Artist PR2", "Artist PR3"],
+    "color":"#e8111b"
+  }
+,
+  {
+    "id": 17,
+    "title": "Love",
+    "image": "https://lh3.googleusercontent.com/proxy/cm1xq935T97hAmCtffgb79yPU_NnDcLUzrWwDCBqVpF3rn1MNgtkhStJdXaZPB5B7js4vY0E6pCD80APFMpeN7jslDm6Bgx0GRr8OSMumogeGVvuYYnJlIpsu1U_dhK5s-E92noDkcEifdeFXk95UQ",
+    "artists": ["Artist Punk1", "Artist Punk2", "Artist Punk3"],
+    "color":"red"
+  },
+  {
+    "id": 18,
+    "title": "Discover",
+    "image": "https://i1.sndcdn.com/avatars-000646870995-fsg8na-t500x500.jpg",
+    "artists": ["Artist D1", "Artist D2", "Artist D3"],
+    "color":"#c7cdd2"
+  },
+  {
+    "id": 19,
+    "title": "Trending",
+    "image": "https://yt3.googleusercontent.com/nLIoAXZSG1n8i8wJ2r-adJbFbDiLA7JYGhERNaBUDdTpEe620Symp1l20jhD7iuXAWl91PJK=s900-c-k-c0x00ffffff-no-rj",
+    "artists": ["Artist Ac1", "Artist Ac2", "Artist Ac3"],
+    "color":"#eb20ae"
+  },
+  {
+    "id": 20,
+    "title": "Mood",
+    "image": "https://i0.wp.com/saunazeit.com/wp-content/uploads/Warum-beeinflusst-das-Hoeren-von-Musik-Ihre-Stimmung-2.jpg?fit=770%2C513&ssl=1",
+    "artists": ["Artist W1", "Artist W2", "Artist W3"],
+    "color":"#d1086c"
+  },
+  {
+    "id": 21,
+    "title": "Party",
+    "image": "https://cdn.mos.cms.futurecdn.net/S63XEZkMLZySPEZiimtPrG.jpg",
+    "artists": ["Artist Funk1", "Artist Funk2", "Artist Funk3"],
+    "color":"#06d4d4"
+  },
+  {
+    "id": 22,
+    "title": "Devotional",
+    "image": "https://i.scdn.co/image/ab67616d0000b2731012462c1a825a039d6f9d1b",
+    "artists": ["Artist Ska1", "Artist Ska2", "Artist Ska3"],
+    "color":"#f08707"
+  },
+  {
+    "id": 23,
+    "title": "Decades",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKT_zI9r_2ahi4n081-2UbkMzn5n_NjupDAomd9fsKASrkhFaUGgx4d9EEBWL4mcwrUE0&usqp=CAU",
+    "artists": ["Artist T1", "Artist T2", "Artist T3"],
+    "color":"#edbc80"
+  },
+  {
+    "id": 24,
+    "title": "Hip-Hop",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyTt_m68wUR8JXPpLPH_o_osxhb4InmliP1iCdlxKGIMdMKUSzuyXnsyGkNqAJb17vg90&usqp=CAU",
+    "artists": ["Artist Danc1", "Artist Danc2", "Artist Danc3"],
+    "color":"#c6c1c9"
+  },
+  {
+    "id": 25,
+    "title": "Dance/Electron",
+    "image": "https://npr.brightspotcdn.com/legacy/sites/wlrn/files/201403/8124105179_ffce10cdf2_b.jpg",
+    "artists": ["Artist L1", "Artist L2", "Artist L3"],
+    "color":"#696158"
+  },
+  {
+    "id": 26,
+    "title": "Student",
+    "image": "https://dhspress.com/wp-content/uploads/2015/11/studying.jpeg-824x549.jpg",
+    "artists": ["Artist ER1", "Artist ER2", "Artist ER3"],
+    "color":"#a4cf0c"
+  },
+  {
+    "id": 27,
+    "title": "Chill",
+    "image": "https://i.scdn.co/image/ab67616d00001e0250904eaae45e83944df52cb8",
+    "artists": ["Artist Am1", "Artist Am2", "Artist Am3"],
+    "color":"#f53b02"
+  },
+  {
+    "id": 28,
+    "title": "Gaming",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYPCYT7JrvkU30_3ucv0XnnlJb3QqJnOII9w&usqp=CAU",
+    "artists": ["Artist Ch1", "Artist Ch2", "Artist Ch3"],
+    "color":"#800ced"
+  }
+  
+]
