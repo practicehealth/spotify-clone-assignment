@@ -25,7 +25,7 @@ export default function CategoriesContainer() {
                     {
                         dataJSON['Categories'].map((data, idx)=>{ 
                             return (
-                            <div key={idx} className={`bg-[#ff0000] w-[12rem] h-[12rem] flex flex-col px-4 py-3 overflow-hidden rounded-lg mr-5`}>
+                            <div key={idx} className={`bg-[${data.color}] w-[12rem] h-[12rem] flex flex-col m-2 px-4 py-3 overflow-hidden rounded-lg mr-5`}>
                                 <span className="font-semibold text-xl w-fit">{data.title}</span>
                                 <img className="relative bottom-0 p-4 right-0 h-30 w-30 rotate-[25deg] translate-x-12 translate-y-6" src="assets/sleep-1.jpeg" alt="Category" />
                             </div>

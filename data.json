@@ -45,15 +45,15 @@
         },
         {
             "title": "Events",
-            "color": "#FFF"
+            "color": "#DA401F"
         },
         {
             "title": "Hindi",
-            "color": "#FFF"
+            "color": "#204BEB"
         },
         {
             "title": "Trending",
-            "color": "#FFF"
+            "color": "#EB2042"
         }
     ]
 }
