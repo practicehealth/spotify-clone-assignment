@@ -1,0 +1,46 @@
+{
+  "songs": [
+    {
+      "id": 1,
+      "title": "Believer",
+      "artist": "Imagine Dragons",
+      "artwork": "https://upload.wikimedia.org/wikipedia/he/5/5c/Imagine-Dragons-Believer-art.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Shortwave",
+      "artist": "Ryan Grigdry",
+      "artwork": "https://m.media-amazon.com/images/M/MV5BZWUxOWIzOTYtMjBhYy00MWFiLWEzYTgtMzRiOTExOTA1ZWQ4XkEyXkFqcGdeQXVyNjI2ODA4MDU@._V1_.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Origins",
+      "artist": "Imagine Dragons",
+      "artwork": "https://upload.wikimedia.org/wikipedia/en/9/95/Origins_cover.png"
+    },
+    {
+      "id": 4,
+      "title": "One Life",
+      "artist": "Mike Perry",
+      "artwork": "https://images.genius.com/5503afff8cf62a25d493d058f1764345.1000x1000x1.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Fire On Up",
+      "artist": "Paper Kings",
+      "artwork": "https://cdn.musicbed.com/image/upload/c_fill,dpr_auto,f_auto,g_auto,q_40,w_630,h_630/v1567689411/production/albums/5173"
+    },
+    {
+      "id": 6,
+      "title": "Here With Me",
+      "artist": "Marshmello feat. CHVRCHES",
+      "artwork": "https://upload.wikimedia.org/wikipedia/en/b/b8/Marshmello_featuring_Chvrches_-_Here_with_Me.png"
+    },
+    {
+      "id": 7,
+      "title": "Something In The Way",
+      "artist": "Nirvana",
+      "artwork": "https://upload.wikimedia.org/wikipedia/en/b/b7/NirvanaNevermindalbumcover.jpg"
+    }
+  ]
+}

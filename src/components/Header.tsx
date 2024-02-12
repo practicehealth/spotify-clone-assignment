@@ -1,5 +1,3 @@
-'use client';
-
 import { twMerge } from 'tailwind-merge';
 import { RxCaretLeft, RxCaretRight } from 'react-icons/rx';
 import { useLocation, useNavigate } from 'react-router-dom';
@@ -21,13 +19,12 @@ const Header: React.FC<HeaderProps> = ({ children, className }) => {
       //  bg-gradient-to-b from-emerald-800
       className={twMerge(
         `
-        h-fit
-        p-6
+        px-6 py-4 space-y-4
         `,
         className,
       )}
     >
-      <div className="w-full mb-4 flex items-center justify-between">
+      <div className="w-full flex items-center justify-between">
         <div className="hidden md:flex gap-x-2 items-center">
           <button
             onClick={() => navigate(-1)}
@@ -63,8 +60,8 @@ const Header: React.FC<HeaderProps> = ({ children, className }) => {
 
         {/* Fix height thing and also conditinally add the flex to have the arrows and search in a same container */}
         {pathname === '/search' && (
-          <div className="hidden md:flex items-center w-[300px] ml-3  rounded-full border-2">
-            <img src={searchIcon} alt="" />
+          <div className="hidden md:flex h-9 items-center w-[300px] ml-3  rounded-full border-2">
+            <img className="ml-2" src={searchIcon} alt="" />
             <input
               id="search-input"
               autoCorrect="off"
@@ -72,7 +69,7 @@ const Header: React.FC<HeaderProps> = ({ children, className }) => {
               spellCheck="false"
               placeholder="Search for songs, artists, albums..."
               value=""
-              className="bg-transparent border-0 text-ellipsis overflow-hidden whitespace-nowrap outline-none pt-0 pr-[100px] pb-[0] pl-[12px]"
+              className="bg-transparent border-0 text-ellipsis overflow-hidden whitespace-nowrap outline-none pt-0  pb-[0] pl-[12px]"
             />
           </div>
         )}
@@ -131,7 +128,7 @@ const Header: React.FC<HeaderProps> = ({ children, className }) => {
       </div>
       {/* Display search bar at bottom in search page only */}
       {pathname === '/search' && (
-        <div className="flex md:hidden items-center py-2 -mb-2 rounded-full border-2">
+        <div className="flex md:hidden items-center py-2 rounded-full border-2">
           <img className="mx-2" src={searchIcon} alt="" />
           <input
             id="search-input"

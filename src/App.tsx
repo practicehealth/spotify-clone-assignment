@@ -1,6 +1,8 @@
 import Header from './components/Header';
-
+import PageContent from './components/PageContent';
+import Songs from '../src/data.json';
 function App() {
+  const songs = Songs.songs;
   return (
     <div
       className="
@@ -14,13 +16,13 @@ function App() {
     >
       <Header></Header>
       {/* Add bg-gray-something as gradient and use h-fit and fit all songs within it */}
-      <div className="mt-2 mb-7 px-6">
+      <div className="mt-2 mb-7 px-6 bg-gradient-to-b from-neutral-800">
         <div className="flex justify-between items-center">
-          <h1 className="text-white text-2xl font-semibold">Newest songs</h1>
+          <h1 className="text-white text-2xl mt-2 font-semibold">Newest songs</h1>
         </div>
 
         {/* Render Song List here */}
-        {/* <PageContent songs={songs} /> */}
+        <PageContent songs={songs} />
       </div>
     </div>
   );
