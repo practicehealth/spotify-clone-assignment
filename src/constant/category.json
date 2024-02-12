@@ -1,0 +1,2020 @@
+{
+    "data": {
+        "browseStart": {
+            "__typename": "BrowseSectionContainer",
+            "sections": {
+                "items": [
+                    {
+                        "data": {
+                            "__typename": "BrowseGridSectionData",
+                            "title": {
+                                "transformedLabel": "Browse all"
+                            }
+                        },
+                        "sectionItems": {
+                            "items": [
+                                {
+                                    "content": {
+                                        "__typename": "BrowseSectionContainerWrapper",
+                                        "data": {
+                                            "__typename": "BrowseSectionContainer",
+                                            "data": {
+                                                "cardRepresentation": {
+                                                    "artwork": {
+                                                        "sources": [
+                                                            {
+                                                                "height": 300,
+                                                                "url": "https://i.scdn.co/image/ab6765630000ba8a81f07e1ead0317ee3c285bfa",
+                                                                "width": 300
+                                                            }
+                                                        ]
+                                                    },
+                                                    "backgroundColor": {
+                                                        "hex": "#006450"
+                                                    },
+                                                    "title": {
+                                                        "transformedLabel": "Podcasts"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "uri": "spotify:page:0JQ5DArNBzkmxXHCqFLx2J"
+                                },
+                                {
+                                    "content": {
+                                        "__typename": "BrowseXlinkResponseWrapper",
+                                        "data": {
+                                            "__typename": "BrowseClientFeature",
+                                            "artwork": {
+                                                "sources": [
+                                                    {
+                                                        "height": 300,
+                                                        "url": "https://concerts.spotifycdn.com/images/live-events_category-image.jpg",
+                                                        "width": 300
+                                                    }
+                                                ]
+                                            },
+                                            "backgroundColor": {
+                                                "hex": "#8400e7"
+                                            },
+                                            "featureUri": "spotify:concerts",
+                                            "iconOverlay": {
+                                                "sources": [
+                                                    {
+                                                        "height": 274,
+                                                        "url": "https://t.scdn.co/images/728ed47fc1674feb95f7ac20236eb6d7.jpeg",
+                                                        "width": 274
+                                                    }
+                                                ]
+                                            },
+                                            "title": {
+                                                "transformedLabel": "Live Events"
+                                            }
+                                        }
+                                    },
+                                    "uri": "spotify:xlink:0JQ5DAozXW0GUBAKjHsifL"
+                                },
+                                {
+                                    "content": {
+                                        "__typename": "BrowseSectionContainerWrapper",
+                                        "data": {
+                                            "__typename": "BrowseSectionContainer",
+                                            "data": {
+                                                "cardRepresentation": {
+                                                    "artwork": {
+                                                        "sources": [
+                                                            {
+                                                                "height": 300,
+                                                                "url": "https://t.scdn.co/images/ea364e99656e46a096ea1df50f581efe",
+                                                                "width": 300
+                                                            }
+                                                        ]
+                                                    },
+                                                    "backgroundColor": {
+                                                        "hex": "#1e3264"
+                                                    },
+                                                    "title": {
+                                                        "transformedLabel": "Made For You"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "uri": "spotify:page:0JQ5DAt0tbjZptfcdMSKl3"
+                                },
+                                {
+                                    "content": {
+                                        "__typename": "BrowseSectionContainerWrapper",
+                                        "data": {
+                                            "__typename": "BrowseSectionContainer",
+                                            "data": {
+                                                "cardRepresentation": {
+                                                    "artwork": {
+                                                        "sources": [
+                                                            {
+                                                                "height": 300,
+                                                                "url": "https://i.scdn.co/image/ab67706f000000027ea4d505212b9de1f72c5112",
+                                                                "width": 300
+                                                            }
+                                                        ]
+                                                    },
+                                                    "backgroundColor": {
+                                                        "hex": "#e8115b"
+                                                    },
+                                                    "title": {
+                                                        "transformedLabel": "New Releases"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "uri": "spotify:page:0JQ5DAqbMKFz6FAsUtgAab"
+                                },
+                                {
+                                    "content": {
+                                        "__typename": "BrowseSectionContainerWrapper",
+                                        "data": {
+                                            "__typename": "BrowseSectionContainer",
+                                            "data": {
+                                                "cardRepresentation": {
+                                                    "artwork": {
+                                                        "sources": [
+                                                            {
+                                                                "height": 300,
+                                                                "url": "https://i.scdn.co/image/ab67fb8200005caff5976b97bcf10d98acbae2cd",
+                                                                "width": 300
+                                                            }
+                                                        ]
+                                                    },
+                                                    "backgroundColor": {
+                                                        "hex": "#dc148c"
+                                                    },
+                                                    "title": {
+                                                        "transformedLabel": "Hindi"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "uri": "spotify:page:0JQ5DAqbMKFHCxg5H5PtqW"
+                                },
+                                {
+                                    "content": {
+                                        "__typename": "BrowseSectionContainerWrapper",
+                                        "data": {
+                                            "__typename": "BrowseSectionContainer",
+                                            "data": {
+                                                "cardRepresentation": {
+                                                    "artwork": {
+                                                        "sources": [
+                                                            {
+                                                                "height": 300,
+                                                                "url": "https://i.scdn.co/image/ab67706f00000002461fda205f5f952eff8bae70",
+                                                                "width": 300
+                                                            }
+                                                        ]
+                                                    },
+                                                    "backgroundColor": {
+                                                        "hex": "#b02897"
+                                                    },
+                                                    "title": {
+                                                        "transformedLabel": "Punjabi"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "uri": "spotify:page:0JQ5DAqbMKFKSopHMaeIeI"
+                                },
+                                {
+                                    "content": {
+                                        "__typename": "BrowseSectionContainerWrapper",
+                                        "data": {
+                                            "__typename": "BrowseSectionContainer",
+                                            "data": {
+                                                "cardRepresentation": {
+                                                    "artwork": {
+                                                        "sources": [
+                                                            {
+                                                                "height": 300,
+                                                                "url": "https://i.scdn.co/image/ab67fb8200005caf4b3beede484da74b233fa299",
+                                                                "width": 300
+                                                            }
+                                                        ]
+                                                    },
+                                                    "backgroundColor": {
+                                                        "hex": "#a56752"
+                                                    },
+                                                    "title": {
+                                                        "transformedLabel": "Tamil"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "uri": "spotify:page:0JQ5DAqbMKFE33XAyDiPIr"
+                                },
+                                {
+                                    "content": {
+                                        "__typename": "BrowseSectionContainerWrapper",
+                                        "data": {
+                                            "__typename": "BrowseSectionContainer",
+                                            "data": {
+                                                "cardRepresentation": {
+                                                    "artwork": {
+                                                        "sources": [
+                                                            {
+                                                                "height": 300,
+                                                                "url": "https://i.scdn.co/image/ab67fb8200005caf666a4ae3e6161da7a120ca14",
+                                                                "width": 300
+                                                            }
+                                                        ]
+                                                    },
+                                                    "backgroundColor": {
+                                                        "hex": "#777777"
+                                                    },
+                                                    "title": {
+                                                        "transformedLabel": "Ghazals"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "uri": "spotify:page:0JQ5DAqbMKFEcBibYcDrCH"
+                                },
+                                {
+                                    "content": {
+                                        "__typename": "BrowseSectionContainerWrapper",
+                                        "data": {
+                                            "__typename": "BrowseSectionContainer",
+                                            "data": {
+                                                "cardRepresentation": {
+                                                    "artwork": {
+                                                        "sources": [
+                                                            {
+                                                                "height": 300,
+                                                                "url": "https://t.scdn.co/images/7262179db37c498480ef06bfacb60310.jpeg",
+                                                                "width": 300
+                                                            }
+                                                        ]
+                                                    },
+                                                    "backgroundColor": {
+                                                        "hex": "#0d73ec"
+                                                    },
+                                                    "title": {
+                                                        "transformedLabel": "Podcast Charts"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "uri": "spotify:page:0JQ5DAB3zgCauRwnvdEQjJ"
+                                },
+                                {
+                                    "content": {
+                                        "__typename": "BrowseSectionContainerWrapper",
+                                        "data": {
+                                            "__typename": "BrowseSectionContainer",
+                                            "data": {
+                                                "cardRepresentation": {
+                                                    "artwork": {
+                                                        "sources": [
+                                                            {
+                                                                "height": 300,
+                                                                "url": "https://t.scdn.co/images/209c867f5bb34076b0dcc9deeb1868e6",
+                                                                "width": 300
+                                                            }
+                                                        ]
+                                                    },
+                                                    "backgroundColor": {
+                                                        "hex": "#8e66ac"
+                                                    },
+                                                    "title": {
+                                                        "transformedLabel": "Podcast New Releases"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "uri": "spotify:page:0JQ5DAqbMKFH69NUcWRk7v"
+                                },
+                                {
+                                    "content": {
+                                        "__typename": "BrowseSectionContainerWrapper",
+                                        "data": {
+                                            "__typename": "BrowseSectionContainer",
+                                            "data": {
+                                                "cardRepresentation": {
+                                                    "artwork": {
+                                                        "sources": [
+                                                            {
+                                                                "height": 300,
+                                                                "url": "https://i.scdn.co/image/9af79fd06e34dea3cd27c4e1cd6ec7343ce20af4",
+                                                                "width": 300
+                                                            }
+                                                        ]
+                                                    },
+                                                    "backgroundColor": {
+                                                        "hex": "#e13300"
+                                                    },
+                                                    "title": {
+                                                        "transformedLabel": "Video Podcasts"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "uri": "spotify:page:0JQ5DAqbMKFQ3ZuyILnKhg"
+                                },
+                                {
+                                    "content": {
+                                        "__typename": "BrowseSectionContainerWrapper",
+                                        "data": {
+                                            "__typename": "BrowseSectionContainer",
+                                            "data": {
+                                                "cardRepresentation": {
+                                                    "artwork": {
+                                                        "sources": [
+                                                            {
+                                                                "height": 300,
+                                                                "url": "https://i.scdn.co/image/e227cd9674618024276c65f1213fb05af34cf512",
+                                                                "width": 300
+                                                            }
+                                                        ]
+                                                    },
+                                                    "backgroundColor": {
+                                                        "hex": "#777777"
+                                                    },
+                                                    "title": {
+                                                        "transformedLabel": "Business & Technology"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "uri": "spotify:page:0JQ5DAqbMKFQRiNGmKYj3B"
+                                },
+                                {
+                                    "content": {
+                                        "__typename": "BrowseSectionContainerWrapper",
+                                        "data": {
+                                            "__typename": "BrowseSectionContainer",
+                                            "data": {
+                                                "cardRepresentation": {
+                                                    "artwork": {
+                                                        "sources": [
+                                                            {
+                                                                "height": 300,
+                                                                "url": "https://charts-images.scdn.co/assets/locale_en/regional/weekly/region_global_default.jpg",
+                                                                "width": 300
+                                                            }
+                                                        ]
+                                                    },
+                                                    "backgroundColor": {
+                                                        "hex": "#8d67ab"
+                                                    },
+                                                    "title": {
+                                                        "transformedLabel": "Charts"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "uri": "spotify:page:0JQ5DAudkNjCgYMM0TZXDw"
+                                },
+                                {
+                                    "content": {
+                                        "__typename": "BrowseSectionContainerWrapper",
+                                        "data": {
+                                            "__typename": "BrowseSectionContainer",
+                                            "data": {
+                                                "cardRepresentation": {
+                                                    "artwork": {
+                                                        "sources": [
+                                                            {
+                                                                "height": 300,
+                                                                "url": "https://i.scdn.co/image/ab67fb8200005cafbca4d84993408c24bec78de8",
+                                                                "width": 300
+                                                            }
+                                                        ]
+                                                    },
+                                                    "backgroundColor": {
+                                                        "hex": "#1e3264"
+                                                    },
+                                                    "title": {
+                                                        "transformedLabel": "Telugu"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "uri": "spotify:page:0JQ5DAqbMKFIdOwkMWR5at"
+                                },
+                                {
+                                    "content": {
+                                        "__typename": "BrowseSectionContainerWrapper",
+                                        "data": {
+                                            "__typename": "BrowseSectionContainer",
+                                            "data": {
+                                                "cardRepresentation": {
+                                                    "artwork": {
+                                                        "sources": [
+                                                            {
+                                                                "height": 300,
+                                                                "url": "https://i.scdn.co/image/ab67fb8200005cafa862ab80dd85682b37c4e768",
+                                                                "width": 300
+                                                            }
+                                                        ]
+                                                    },
+                                                    "backgroundColor": {
+                                                        "hex": "#148a08"
+                                                    },
+                                                    "title": {
+                                                        "transformedLabel": "Pop"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "uri": "spotify:page:0JQ5DAqbMKFEC4WFtoNRpw"
+                                },
+                                {
+                                    "content": {
+                                        "__typename": "BrowseSectionContainerWrapper",
+                                        "data": {
+                                            "__typename": "BrowseSectionContainer",
+                                            "data": {
+                                                "cardRepresentation": {
+                                                    "artwork": {
+                                                        "sources": [
+                                                            {
+                                                                "height": 300,
+                                                                "url": "https://i.scdn.co/image/ab67fb8200005cafa1a252e3a815b65778d8c2aa",
+                                                                "width": 300
+                                                            }
+                                                        ]
+                                                    },
+                                                    "backgroundColor": {
+                                                        "hex": "#e91429"
+                                                    },
+                                                    "title": {
+                                                        "transformedLabel": "Indie"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "uri": "spotify:page:0JQ5DAqbMKFCWjUTdzaG0e"
+                                },
+                                {
+                                    "content": {
+                                        "__typename": "BrowseSectionContainerWrapper",
+                                        "data": {
+                                            "__typename": "BrowseSectionContainer",
+                                            "data": {
+                                                "cardRepresentation": {
+                                                    "artwork": {
+                                                        "sources": [
+                                                            {
+                                                                "height": 300,
+                                                                "url": "https://i.scdn.co/image/ab67fb8200005cafb03c6f8e7efca2ae36f41b31",
+                                                                "width": 300
+                                                            }
+                                                        ]
+                                                    },
+                                                    "backgroundColor": {
+                                                        "hex": "#e61e32"
+                                                    },
+                                                    "title": {
+                                                        "transformedLabel": "Love"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "uri": "spotify:page:0JQ5DAqbMKFAUsdyVjCQuL"
+                                },
+                                {
+                                    "content": {
+                                        "__typename": "BrowseSectionContainerWrapper",
+                                        "data": {
+                                            "__typename": "BrowseSectionContainer",
+                                            "data": {
+                                                "cardRepresentation": {
+                                                    "artwork": {
+                                                        "sources": [
+                                                            {
+                                                                "height": 300,
+                                                                "url": "https://t.scdn.co/images/d0fb2ab104dc4846bdc56d72b0b0d785.jpeg",
+                                                                "width": 300
+                                                            }
+                                                        ]
+                                                    },
+                                                    "backgroundColor": {
+                                                        "hex": "#8d67ab"
+                                                    },
+                                                    "title": {
+                                                        "transformedLabel": "Discover"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "uri": "spotify:page:0JQ5DAtOnAEpjOgUKwXyxj"
+                                },
+                                {
+                                    "content": {
+                                        "__typename": "BrowseSectionContainerWrapper",
+                                        "data": {
+                                            "__typename": "BrowseSectionContainer",
+                                            "data": {
+                                                "cardRepresentation": {
+                                                    "artwork": {
+                                                        "sources": [
+                                                            {
+                                                                "height": 300,
+                                                                "url": "https://i.scdn.co/image/ab67fb8200005caf1867113f5218598847550acd",
+                                                                "width": 300
+                                                            }
+                                                        ]
+                                                    },
+                                                    "backgroundColor": {
+                                                        "hex": "#b02897"
+                                                    },
+                                                    "title": {
+                                                        "transformedLabel": "Trending"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "uri": "spotify:page:0JQ5DAqbMKFQIL0AXnG5AK"
+                                },
+                                {
+                                    "content": {
+                                        "__typename": "BrowseSectionContainerWrapper",
+                                        "data": {
+                                            "__typename": "BrowseSectionContainer",
+                                            "data": {
+                                                "cardRepresentation": {
+                                                    "artwork": {
+                                                        "sources": [
+                                                            {
+                                                                "height": 300,
+                                                                "url": "https://i.scdn.co/image/ab67fb8200005caf271f9d895003c5f5561c1354",
+                                                                "width": 300
+                                                            }
+                                                        ]
+                                                    },
+                                                    "backgroundColor": {
+                                                        "hex": "#e1118c"
+                                                    },
+                                                    "title": {
+                                                        "transformedLabel": "Mood"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "uri": "spotify:page:0JQ5DAqbMKFzHmL4tf05da"
+                                },
+                                {
+                                    "content": {
+                                        "__typename": "BrowseSectionContainerWrapper",
+                                        "data": {
+                                            "__typename": "BrowseSectionContainer",
+                                            "data": {
+                                                "cardRepresentation": {
+                                                    "artwork": {
+                                                        "sources": [
+                                                            {
+                                                                "height": 300,
+                                                                "url": "https://i.scdn.co/image/ab67fb8200005cafcbf80f8ea695536eace4fd2c",
+                                                                "width": 300
+                                                            }
+                                                        ]
+                                                    },
+                                                    "backgroundColor": {
+                                                        "hex": "#537aa1"
+                                                    },
+                                                    "title": {
+                                                        "transformedLabel": "Party"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "uri": "spotify:page:0JQ5DAqbMKFA6SOHvT3gck"
+                                },
+                                {
+                                    "content": {
+                                        "__typename": "BrowseSectionContainerWrapper",
+                                        "data": {
+                                            "__typename": "BrowseSectionContainer",
+                                            "data": {
+                                                "cardRepresentation": {
+                                                    "artwork": {
+                                                        "sources": [
+                                                            {
+                                                                "height": 300,
+                                                                "url": "https://t.scdn.co/images/ad3e3f8f80eb494d998a435f7a5ae8c7",
+                                                                "width": 300
+                                                            }
+                                                        ]
+                                                    },
+                                                    "backgroundColor": {
+                                                        "hex": "#c39687"
+                                                    },
+                                                    "title": {
+                                                        "transformedLabel": "Devotional"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "uri": "spotify:page:0JQ5DAqbMKFOTGtSOysEXE"
+                                },
+                                {
+                                    "content": {
+                                        "__typename": "BrowseSectionContainerWrapper",
+                                        "data": {
+                                            "__typename": "BrowseSectionContainer",
+                                            "data": {
+                                                "cardRepresentation": {
+                                                    "artwork": {
+                                                        "sources": [
+                                                            {
+                                                                "height": 300,
+                                                                "url": "https://i.scdn.co/image/ab67fb8200005caff005a355830c374754d32868",
+                                                                "width": 300
+                                                            }
+                                                        ]
+                                                    },
+                                                    "backgroundColor": {
+                                                        "hex": "#ba5d07"
+                                                    },
+                                                    "title": {
+                                                        "transformedLabel": "Decades"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "uri": "spotify:page:0JQ5DAqbMKFIVNxQgRNSg0"
+                                },
+                                {
+                                    "content": {
+                                        "__typename": "BrowseSectionContainerWrapper",
+                                        "data": {
+                                            "__typename": "BrowseSectionContainer",
+                                            "data": {
+                                                "cardRepresentation": {
+                                                    "artwork": {
+                                                        "sources": [
+                                                            {
+                                                                "height": 300,
+                                                                "url": "https://i.scdn.co/image/ab67fb8200005caf9e3dea60be755ccd97b7351f",
+                                                                "width": 300
+                                                            }
+                                                        ]
+                                                    },
+                                                    "backgroundColor": {
+                                                        "hex": "#503750"
+                                                    },
+                                                    "title": {
+                                                        "transformedLabel": "Hip-Hop"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "uri": "spotify:page:0JQ5DAqbMKFQ00XGBls6ym"
+                                },
+                                {
+                                    "content": {
+                                        "__typename": "BrowseSectionContainerWrapper",
+                                        "data": {
+                                            "__typename": "BrowseSectionContainer",
+                                            "data": {
+                                                "cardRepresentation": {
+                                                    "artwork": {
+                                                        "sources": [
+                                                            {
+                                                                "height": 300,
+                                                                "url": "https://i.scdn.co/image/ab67fb8200005cafdfdaac1cf9574a196ca25196",
+                                                                "width": 300
+                                                            }
+                                                        ]
+                                                    },
+                                                    "backgroundColor": {
+                                                        "hex": "#d84000"
+                                                    },
+                                                    "title": {
+                                                        "transformedLabel": "Dance/Electronic"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "uri": "spotify:page:0JQ5DAqbMKFHOzuVTgTizF"
+                                },
+                                {
+                                    "content": {
+                                        "__typename": "BrowseSectionContainerWrapper",
+                                        "data": {
+                                            "__typename": "BrowseSectionContainer",
+                                            "data": {
+                                                "cardRepresentation": {
+                                                    "artwork": {
+                                                        "sources": [
+                                                            {
+                                                                "height": 300,
+                                                                "url": "https://i.scdn.co/image/ab67fb8200005cafdad1281e13697e8d8cf8f347",
+                                                                "width": 300
+                                                            }
+                                                        ]
+                                                    },
+                                                    "backgroundColor": {
+                                                        "hex": "#af2896"
+                                                    },
+                                                    "title": {
+                                                        "transformedLabel": "Student"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "uri": "spotify:page:0JQ5DAqbMKFJw7QLnM27p6"
+                                },
+                                {
+                                    "content": {
+                                        "__typename": "BrowseSectionContainerWrapper",
+                                        "data": {
+                                            "__typename": "BrowseSectionContainer",
+                                            "data": {
+                                                "cardRepresentation": {
+                                                    "artwork": {
+                                                        "sources": [
+                                                            {
+                                                                "height": 300,
+                                                                "url": "https://i.scdn.co/image/ab67fb8200005caf47e942f5bea637f4f4760170",
+                                                                "width": 300
+                                                            }
+                                                        ]
+                                                    },
+                                                    "backgroundColor": {
+                                                        "hex": "#d84000"
+                                                    },
+                                                    "title": {
+                                                        "transformedLabel": "Chill"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "uri": "spotify:page:0JQ5DAqbMKFFzDl7qN9Apr"
+                                },
+                                {
+                                    "content": {
+                                        "__typename": "BrowseSectionContainerWrapper",
+                                        "data": {
+                                            "__typename": "BrowseSectionContainer",
+                                            "data": {
+                                                "cardRepresentation": {
+                                                    "artwork": {
+                                                        "sources": [
+                                                            {
+                                                                "height": 300,
+                                                                "url": "https://i.scdn.co/image/ab67fb8200005caf26dd3719e8824756914ae61f",
+                                                                "width": 300
+                                                            }
+                                                        ]
+                                                    },
+                                                    "backgroundColor": {
+                                                        "hex": "#e8115b"
+                                                    },
+                                                    "title": {
+                                                        "transformedLabel": "Gaming"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "uri": "spotify:page:0JQ5DAqbMKFCfObibaOZbv"
+                                },
+                                {
+                                    "content": {
+                                        "__typename": "BrowseSectionContainerWrapper",
+                                        "data": {
+                                            "__typename": "BrowseSectionContainer",
+                                            "data": {
+                                                "cardRepresentation": {
+                                                    "artwork": {
+                                                        "sources": [
+                                                            {
+                                                                "height": 300,
+                                                                "url": "https://i.scdn.co/image/ab67fb8200005caf013ee3c983e6f60bf28bad5a",
+                                                                "width": 300
+                                                            }
+                                                        ]
+                                                    },
+                                                    "backgroundColor": {
+                                                        "hex": "#148a08"
+                                                    },
+                                                    "title": {
+                                                        "transformedLabel": "K-pop"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "uri": "spotify:page:0JQ5DAqbMKFGvOw3O4nLAf"
+                                },
+                                {
+                                    "content": {
+                                        "__typename": "BrowseSectionContainerWrapper",
+                                        "data": {
+                                            "__typename": "BrowseSectionContainer",
+                                            "data": {
+                                                "cardRepresentation": {
+                                                    "artwork": {
+                                                        "sources": [
+                                                            {
+                                                                "height": 300,
+                                                                "url": "https://i.scdn.co/image/ab67706f000000029249b35f23fb596b6f006a15",
+                                                                "width": 300
+                                                            }
+                                                        ]
+                                                    },
+                                                    "backgroundColor": {
+                                                        "hex": "#777777"
+                                                    },
+                                                    "title": {
+                                                        "transformedLabel": "Workout"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "uri": "spotify:page:0JQ5DAqbMKFAXlCG6QvYQ4"
+                                },
+                                {
+                                    "content": {
+                                        "__typename": "BrowseSectionContainerWrapper",
+                                        "data": {
+                                            "__typename": "BrowseSectionContainer",
+                                            "data": {
+                                                "cardRepresentation": {
+                                                    "artwork": {
+                                                        "sources": [
+                                                            {
+                                                                "height": 300,
+                                                                "url": "https://i.scdn.co/image/ab67fb8200005cafe760702de052fbefea27064a",
+                                                                "width": 300
+                                                            }
+                                                        ]
+                                                    },
+                                                    "backgroundColor": {
+                                                        "hex": "#a56752"
+                                                    },
+                                                    "title": {
+                                                        "transformedLabel": "RADAR"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "uri": "spotify:page:0JQ5DAqbMKFOOxftoKZxod"
+                                },
+                                {
+                                    "content": {
+                                        "__typename": "BrowseSectionContainerWrapper",
+                                        "data": {
+                                            "__typename": "BrowseSectionContainer",
+                                            "data": {
+                                                "cardRepresentation": {
+                                                    "artwork": {
+                                                        "sources": [
+                                                            {
+                                                                "height": 300,
+                                                                "url": "https://i.scdn.co/image/ab67fb8200005caf9ed6e364e8839210dc4dbff7",
+                                                                "width": 300
+                                                            }
+                                                        ]
+                                                    },
+                                                    "backgroundColor": {
+                                                        "hex": "#056952"
+                                                    },
+                                                    "title": {
+                                                        "transformedLabel": "EQUAL"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "uri": "spotify:page:0JQ5DAqbMKFPw634sFwguI"
+                                },
+                                {
+                                    "content": {
+                                        "__typename": "BrowseSectionContainerWrapper",
+                                        "data": {
+                                            "__typename": "BrowseSectionContainer",
+                                            "data": {
+                                                "cardRepresentation": {
+                                                    "artwork": {
+                                                        "sources": [
+                                                            {
+                                                                "height": 300,
+                                                                "url": "https://i.scdn.co/image/ab67fb8200005cafcc1499bbb8565f490858c2bc",
+                                                                "width": 300
+                                                            }
+                                                        ]
+                                                    },
+                                                    "backgroundColor": {
+                                                        "hex": "#ff0090"
+                                                    },
+                                                    "title": {
+                                                        "transformedLabel": "Fresh Finds"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "uri": "spotify:page:0JQ5DAqbMKFImHYGo3eTSg"
+                                },
+                                {
+                                    "content": {
+                                        "__typename": "BrowseSectionContainerWrapper",
+                                        "data": {
+                                            "__typename": "BrowseSectionContainer",
+                                            "data": {
+                                                "cardRepresentation": {
+                                                    "artwork": {
+                                                        "sources": [
+                                                            {
+                                                                "height": 300,
+                                                                "url": "https://i.scdn.co/image/ab67fb8200005cafae7e69beb88f16969641b53e",
+                                                                "width": 300
+                                                            }
+                                                        ]
+                                                    },
+                                                    "backgroundColor": {
+                                                        "hex": "#e91429"
+                                                    },
+                                                    "title": {
+                                                        "transformedLabel": "Rock"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "uri": "spotify:page:0JQ5DAqbMKFDXXwE9BDJAr"
+                                },
+                                {
+                                    "content": {
+                                        "__typename": "BrowseSectionContainerWrapper",
+                                        "data": {
+                                            "__typename": "BrowseSectionContainer",
+                                            "data": {
+                                                "cardRepresentation": {
+                                                    "artwork": {
+                                                        "sources": [
+                                                            {
+                                                                "height": 300,
+                                                                "url": "https://i.scdn.co/image/ab67706f00000002b70e0223f544b1faa2e95ed0",
+                                                                "width": 300
+                                                            }
+                                                        ]
+                                                    },
+                                                    "backgroundColor": {
+                                                        "hex": "#1E3264"
+                                                    },
+                                                    "title": {
+                                                        "transformedLabel": "Sleep"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "uri": "spotify:page:0JQ5DAqbMKFCuoRTxhYWow"
+                                },
+                                {
+                                    "content": {
+                                        "__typename": "BrowseSectionContainerWrapper",
+                                        "data": {
+                                            "__typename": "BrowseSectionContainer",
+                                            "data": {
+                                                "cardRepresentation": {
+                                                    "artwork": {
+                                                        "sources": [
+                                                            {
+                                                                "height": 300,
+                                                                "url": "https://i.scdn.co/image/ab67706f000000028bc55791c7c394b24c319877",
+                                                                "width": 300
+                                                            }
+                                                        ]
+                                                    },
+                                                    "backgroundColor": {
+                                                        "hex": "#7d4b32"
+                                                    },
+                                                    "title": {
+                                                        "transformedLabel": "Indian Classical"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "uri": "spotify:page:0JQ5DAqbMKFAEu5QlAkwvV"
+                                },
+                                {
+                                    "content": {
+                                        "__typename": "BrowseSectionContainerWrapper",
+                                        "data": {
+                                            "__typename": "BrowseSectionContainer",
+                                            "data": {
+                                                "cardRepresentation": {
+                                                    "artwork": {
+                                                        "sources": [
+                                                            {
+                                                                "height": 300,
+                                                                "url": "https://i.scdn.co/image/ab67706f000000028ed1a5002b96c2ea882541b2",
+                                                                "width": 300
+                                                            }
+                                                        ]
+                                                    },
+                                                    "backgroundColor": {
+                                                        "hex": "#537aa1"
+                                                    },
+                                                    "title": {
+                                                        "transformedLabel": "Instrumental"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "uri": "spotify:page:0JQ5DAqbMKFRieVZLLoo9m"
+                                },
+                                {
+                                    "content": {
+                                        "__typename": "BrowseSectionContainerWrapper",
+                                        "data": {
+                                            "__typename": "BrowseSectionContainer",
+                                            "data": {
+                                                "cardRepresentation": {
+                                                    "artwork": {
+                                                        "sources": [
+                                                            {
+                                                                "height": 300,
+                                                                "url": "https://i.scdn.co/image/ab67fb8200005caf14030380532b34badbf0a229",
+                                                                "width": 300
+                                                            }
+                                                        ]
+                                                    },
+                                                    "backgroundColor": {
+                                                        "hex": "#777777"
+                                                    },
+                                                    "title": {
+                                                        "transformedLabel": "Spotify Singles"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "uri": "spotify:page:0JQ5DAqbMKFDBgllo2cUIN"
+                                },
+                                {
+                                    "content": {
+                                        "__typename": "BrowseSectionContainerWrapper",
+                                        "data": {
+                                            "__typename": "BrowseSectionContainer",
+                                            "data": {
+                                                "cardRepresentation": {
+                                                    "artwork": {
+                                                        "sources": [
+                                                            {
+                                                                "height": 300,
+                                                                "url": "https://i.scdn.co/image/ab67fb8200005cafe914a07d20cec7a65e2e5dad",
+                                                                "width": 300
+                                                            }
+                                                        ]
+                                                    },
+                                                    "backgroundColor": {
+                                                        "hex": "#5179a1"
+                                                    },
+                                                    "title": {
+                                                        "transformedLabel": "At Home"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "uri": "spotify:page:0JQ5DAqbMKFx0uLQR2okcc"
+                                },
+                                {
+                                    "content": {
+                                        "__typename": "BrowseSectionContainerWrapper",
+                                        "data": {
+                                            "__typename": "BrowseSectionContainer",
+                                            "data": {
+                                                "cardRepresentation": {
+                                                    "artwork": {
+                                                        "sources": [
+                                                            {
+                                                                "height": 300,
+                                                                "url": "https://i.scdn.co/image/ab67fb8200005cafc0d2222b4c6441930e1a386e",
+                                                                "width": 300
+                                                            }
+                                                        ]
+                                                    },
+                                                    "backgroundColor": {
+                                                        "hex": "#d84000"
+                                                    },
+                                                    "title": {
+                                                        "transformedLabel": "Country"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "uri": "spotify:page:0JQ5DAqbMKFKLfwjuJMoNC"
+                                },
+                                {
+                                    "content": {
+                                        "__typename": "BrowseSectionContainerWrapper",
+                                        "data": {
+                                            "__typename": "BrowseSectionContainer",
+                                            "data": {
+                                                "cardRepresentation": {
+                                                    "artwork": {
+                                                        "sources": [
+                                                            {
+                                                                "height": 300,
+                                                                "url": "https://i.scdn.co/image/ab67fb8200005caff4e38be86ca48a3b10884ae3",
+                                                                "width": 300
+                                                            }
+                                                        ]
+                                                    },
+                                                    "backgroundColor": {
+                                                        "hex": "#ba5d07"
+                                                    },
+                                                    "title": {
+                                                        "transformedLabel": "R&B"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "uri": "spotify:page:0JQ5DAqbMKFEZPnFQSFB1T"
+                                },
+                                {
+                                    "content": {
+                                        "__typename": "BrowseSectionContainerWrapper",
+                                        "data": {
+                                            "__typename": "BrowseSectionContainer",
+                                            "data": {
+                                                "cardRepresentation": {
+                                                    "artwork": {
+                                                        "sources": [
+                                                            {
+                                                                "height": 300,
+                                                                "url": "https://i.scdn.co/image/ab67fb8200005cafefa737b67ec51ec989f5a51d",
+                                                                "width": 300
+                                                            }
+                                                        ]
+                                                    },
+                                                    "backgroundColor": {
+                                                        "hex": "#e91429"
+                                                    },
+                                                    "title": {
+                                                        "transformedLabel": "Metal"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "uri": "spotify:page:0JQ5DAqbMKFDkd668ypn6O"
+                                },
+                                {
+                                    "content": {
+                                        "__typename": "BrowseSectionContainerWrapper",
+                                        "data": {
+                                            "__typename": "BrowseSectionContainer",
+                                            "data": {
+                                                "cardRepresentation": {
+                                                    "artwork": {
+                                                        "sources": [
+                                                            {
+                                                                "height": 300,
+                                                                "url": "https://i.scdn.co/image/ab67fb8200005cafe289743024639ea8f202364d",
+                                                                "width": 300
+                                                            }
+                                                        ]
+                                                    },
+                                                    "backgroundColor": {
+                                                        "hex": "#777777"
+                                                    },
+                                                    "title": {
+                                                        "transformedLabel": "Jazz"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "uri": "spotify:page:0JQ5DAqbMKFAJ5xb0fwo9m"
+                                },
+                                {
+                                    "content": {
+                                        "__typename": "BrowseSectionContainerWrapper",
+                                        "data": {
+                                            "__typename": "BrowseSectionContainer",
+                                            "data": {
+                                                "cardRepresentation": {
+                                                    "artwork": {
+                                                        "sources": [
+                                                            {
+                                                                "height": 300,
+                                                                "url": "https://i.scdn.co/image/ab67fb8200005caf12809992dfc5b318892ea07b",
+                                                                "width": 300
+                                                            }
+                                                        ]
+                                                    },
+                                                    "backgroundColor": {
+                                                        "hex": "#7d4b32"
+                                                    },
+                                                    "title": {
+                                                        "transformedLabel": "Classical"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "uri": "spotify:page:0JQ5DAqbMKFPrEiAOxgac3"
+                                },
+                                {
+                                    "content": {
+                                        "__typename": "BrowseSectionContainerWrapper",
+                                        "data": {
+                                            "__typename": "BrowseSectionContainer",
+                                            "data": {
+                                                "cardRepresentation": {
+                                                    "artwork": {
+                                                        "sources": [
+                                                            {
+                                                                "height": 300,
+                                                                "url": "https://i.scdn.co/image/ab67fb8200005cafcc70a3c2e4c71398708bdc4a",
+                                                                "width": 300
+                                                            }
+                                                        ]
+                                                    },
+                                                    "backgroundColor": {
+                                                        "hex": "#bc5900"
+                                                    },
+                                                    "title": {
+                                                        "transformedLabel": "Folk & Acoustic"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "uri": "spotify:page:0JQ5DAqbMKFy78wprEpAjl"
+                                },
+                                {
+                                    "content": {
+                                        "__typename": "BrowseSectionContainerWrapper",
+                                        "data": {
+                                            "__typename": "BrowseSectionContainer",
+                                            "data": {
+                                                "cardRepresentation": {
+                                                    "artwork": {
+                                                        "sources": [
+                                                            {
+                                                                "height": 300,
+                                                                "url": "https://i.scdn.co/image/ab67706f00000002e4eadd417a05b2546e866934",
+                                                                "width": 300
+                                                            }
+                                                        ]
+                                                    },
+                                                    "backgroundColor": {
+                                                        "hex": "#503750"
+                                                    },
+                                                    "title": {
+                                                        "transformedLabel": "Focus"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "uri": "spotify:page:0JQ5DAqbMKFCbimwdOYlsl"
+                                },
+                                {
+                                    "content": {
+                                        "__typename": "BrowseSectionContainerWrapper",
+                                        "data": {
+                                            "__typename": "BrowseSectionContainer",
+                                            "data": {
+                                                "cardRepresentation": {
+                                                    "artwork": {
+                                                        "sources": [
+                                                            {
+                                                                "height": 300,
+                                                                "url": "https://i.scdn.co/image/ab67fb8200005caf78c17dc5631c053fd95f31bb",
+                                                                "width": 300
+                                                            }
+                                                        ]
+                                                    },
+                                                    "backgroundColor": {
+                                                        "hex": "#0d73ec"
+                                                    },
+                                                    "title": {
+                                                        "transformedLabel": "Disney"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "uri": "spotify:page:0JQ5DAqbMKFIxnofjQmnmn"
+                                },
+                                {
+                                    "content": {
+                                        "__typename": "BrowseSectionContainerWrapper",
+                                        "data": {
+                                            "__typename": "BrowseSectionContainer",
+                                            "data": {
+                                                "cardRepresentation": {
+                                                    "artwork": {
+                                                        "sources": [
+                                                            {
+                                                                "height": 300,
+                                                                "url": "https://i.scdn.co/image/ab67fb8200005cafd82e2c83fe100a89e9cbb2a2",
+                                                                "width": 300
+                                                            }
+                                                        ]
+                                                    },
+                                                    "backgroundColor": {
+                                                        "hex": "#dc148c"
+                                                    },
+                                                    "title": {
+                                                        "transformedLabel": "Soul"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "uri": "spotify:page:0JQ5DAqbMKFIpEuaCnimBj"
+                                },
+                                {
+                                    "content": {
+                                        "__typename": "BrowseSectionContainerWrapper",
+                                        "data": {
+                                            "__typename": "BrowseSectionContainer",
+                                            "data": {
+                                                "cardRepresentation": {
+                                                    "artwork": {
+                                                        "sources": [
+                                                            {
+                                                                "height": 300,
+                                                                "url": "https://i.scdn.co/image/ab67fb8200005caf8a04560a209b3f32165ea8a2",
+                                                                "width": 300
+                                                            }
+                                                        ]
+                                                    },
+                                                    "backgroundColor": {
+                                                        "hex": "#8d67ab"
+                                                    },
+                                                    "title": {
+                                                        "transformedLabel": "Kids & Family"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "uri": "spotify:page:0JQ5DAqbMKFFoimhOqWzLB"
+                                },
+                                {
+                                    "content": {
+                                        "__typename": "BrowseSectionContainerWrapper",
+                                        "data": {
+                                            "__typename": "BrowseSectionContainer",
+                                            "data": {
+                                                "cardRepresentation": {
+                                                    "artwork": {
+                                                        "sources": [
+                                                            {
+                                                                "height": 300,
+                                                                "url": "https://i.scdn.co/image/ab67706f00000002c19c5f13f8b3ff2d73ff00bc",
+                                                                "width": 300
+                                                            }
+                                                        ]
+                                                    },
+                                                    "backgroundColor": {
+                                                        "hex": "#e41d63"
+                                                    },
+                                                    "title": {
+                                                        "transformedLabel": "Anime"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "uri": "spotify:page:0JQ5DAqbMKFziKOShCi009"
+                                },
+                                {
+                                    "content": {
+                                        "__typename": "BrowseSectionContainerWrapper",
+                                        "data": {
+                                            "__typename": "BrowseSectionContainer",
+                                            "data": {
+                                                "cardRepresentation": {
+                                                    "artwork": {
+                                                        "sources": [
+                                                            {
+                                                                "height": 300,
+                                                                "url": "https://i.scdn.co/image/ab67fb8200005cafb4c4523336133ec3c7fd1744",
+                                                                "width": 300
+                                                            }
+                                                        ]
+                                                    },
+                                                    "backgroundColor": {
+                                                        "hex": "#af2896"
+                                                    },
+                                                    "title": {
+                                                        "transformedLabel": "TV & Movies"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "uri": "spotify:page:0JQ5DAqbMKFOzQeOmemkuw"
+                                },
+                                {
+                                    "content": {
+                                        "__typename": "BrowseSectionContainerWrapper",
+                                        "data": {
+                                            "__typename": "BrowseSectionContainer",
+                                            "data": {
+                                                "cardRepresentation": {
+                                                    "artwork": {
+                                                        "sources": [
+                                                            {
+                                                                "height": 300,
+                                                                "url": "https://i.scdn.co/image/ab67fb8200005cafb2cdd7a95b0a5444aa15cfb5",
+                                                                "width": 300
+                                                            }
+                                                        ]
+                                                    },
+                                                    "backgroundColor": {
+                                                        "hex": "#1e3264"
+                                                    },
+                                                    "title": {
+                                                        "transformedLabel": "Punk"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "uri": "spotify:page:0JQ5DAqbMKFAjfauKLOZiv"
+                                },
+                                {
+                                    "content": {
+                                        "__typename": "BrowseSectionContainerWrapper",
+                                        "data": {
+                                            "__typename": "BrowseSectionContainer",
+                                            "data": {
+                                                "cardRepresentation": {
+                                                    "artwork": {
+                                                        "sources": [
+                                                            {
+                                                                "height": 300,
+                                                                "url": "https://i.scdn.co/image/ab67fb8200005cafa6ee95dc83af715115f40522",
+                                                                "width": 300
+                                                            }
+                                                        ]
+                                                    },
+                                                    "backgroundColor": {
+                                                        "hex": "#477d95"
+                                                    },
+                                                    "title": {
+                                                        "transformedLabel": "Ambient"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "uri": "spotify:page:0JQ5DAqbMKFLjmiZRss79w"
+                                },
+                                {
+                                    "content": {
+                                        "__typename": "BrowseSectionContainerWrapper",
+                                        "data": {
+                                            "__typename": "BrowseSectionContainer",
+                                            "data": {
+                                                "cardRepresentation": {
+                                                    "artwork": {
+                                                        "sources": [
+                                                            {
+                                                                "height": 300,
+                                                                "url": "https://i.scdn.co/image/ab67fb8200005caff22ac5cab318d550b593ffac",
+                                                                "width": 300
+                                                            }
+                                                        ]
+                                                    },
+                                                    "backgroundColor": {
+                                                        "hex": "#b06239"
+                                                    },
+                                                    "title": {
+                                                        "transformedLabel": "Blues"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "uri": "spotify:page:0JQ5DAqbMKFQiK2EHwyjcU"
+                                },
+                                {
+                                    "content": {
+                                        "__typename": "BrowseSectionContainerWrapper",
+                                        "data": {
+                                            "__typename": "BrowseSectionContainer",
+                                            "data": {
+                                                "cardRepresentation": {
+                                                    "artwork": {
+                                                        "sources": [
+                                                            {
+                                                                "height": 300,
+                                                                "url": "https://i.scdn.co/image/ab67fb8200005cafe53d71d0920a4f1f441d803c",
+                                                                "width": 300
+                                                            }
+                                                        ]
+                                                    },
+                                                    "backgroundColor": {
+                                                        "hex": "#ba5d07"
+                                                    },
+                                                    "title": {
+                                                        "transformedLabel": "Cooking & Dining"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "uri": "spotify:page:0JQ5DAqbMKFRY5ok2pxXJ0"
+                                },
+                                {
+                                    "content": {
+                                        "__typename": "BrowseSectionContainerWrapper",
+                                        "data": {
+                                            "__typename": "BrowseSectionContainer",
+                                            "data": {
+                                                "cardRepresentation": {
+                                                    "artwork": {
+                                                        "sources": [
+                                                            {
+                                                                "height": 300,
+                                                                "url": "https://i.scdn.co/image/ab67fb8200005caf106e29a9f294cb4265da6af9",
+                                                                "width": 300
+                                                            }
+                                                        ]
+                                                    },
+                                                    "backgroundColor": {
+                                                        "hex": "#e13300"
+                                                    },
+                                                    "title": {
+                                                        "transformedLabel": "Alternative"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "uri": "spotify:page:0JQ5DAqbMKFFtlLYUHv8bT"
+                                },
+                                {
+                                    "content": {
+                                        "__typename": "BrowseSectionContainerWrapper",
+                                        "data": {
+                                            "__typename": "BrowseSectionContainer",
+                                            "data": {
+                                                "cardRepresentation": {
+                                                    "artwork": {
+                                                        "sources": [
+                                                            {
+                                                                "height": 300,
+                                                                "url": "https://i.scdn.co/image/ab67fb8200005caf8dec632effd9735fa8aba06e",
+                                                                "width": 300
+                                                            }
+                                                        ]
+                                                    },
+                                                    "backgroundColor": {
+                                                        "hex": "#a56752"
+                                                    },
+                                                    "title": {
+                                                        "transformedLabel": "Wellness"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "uri": "spotify:page:0JQ5DAqbMKFLb2EqgLtpjC"
+                                },
+                                {
+                                    "content": {
+                                        "__typename": "BrowseSectionContainerWrapper",
+                                        "data": {
+                                            "__typename": "BrowseSectionContainer",
+                                            "data": {
+                                                "cardRepresentation": {
+                                                    "artwork": {
+                                                        "sources": [
+                                                            {
+                                                                "height": 300,
+                                                                "url": "https://i.scdn.co/image/ab67fb8200005caf4b36a2c31432ace68d90c4f2",
+                                                                "width": 300
+                                                            }
+                                                        ]
+                                                    },
+                                                    "backgroundColor": {
+                                                        "hex": "#0d72ed"
+                                                    },
+                                                    "title": {
+                                                        "transformedLabel": "Travel"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "uri": "spotify:page:0JQ5DAqbMKFAQy4HL4XU2D"
+                                },
+                                {
+                                    "content": {
+                                        "__typename": "BrowseSectionContainerWrapper",
+                                        "data": {
+                                            "__typename": "BrowseSectionContainer",
+                                            "data": {
+                                                "cardRepresentation": {
+                                                    "artwork": {
+                                                        "sources": [
+                                                            {
+                                                                "height": 300,
+                                                                "url": "https://i.scdn.co/image/ab67fb8200005caf8ba1febbb4f77336b6f9aace",
+                                                                "width": 300
+                                                            }
+                                                        ]
+                                                    },
+                                                    "backgroundColor": {
+                                                        "hex": "#0d73ec"
+                                                    },
+                                                    "title": {
+                                                        "transformedLabel": "Caribbean"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "uri": "spotify:page:0JQ5DAqbMKFObNLOHydSW8"
+                                },
+                                {
+                                    "content": {
+                                        "__typename": "BrowseSectionContainerWrapper",
+                                        "data": {
+                                            "__typename": "BrowseSectionContainer",
+                                            "data": {
+                                                "cardRepresentation": {
+                                                    "artwork": {
+                                                        "sources": [
+                                                            {
+                                                                "height": 300,
+                                                                "url": "https://i.scdn.co/image/ab67fb8200005caf04faccb4f5e1828600921f37",
+                                                                "width": 300
+                                                            }
+                                                        ]
+                                                    },
+                                                    "backgroundColor": {
+                                                        "hex": "#d84000"
+                                                    },
+                                                    "title": {
+                                                        "transformedLabel": "Afro"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "uri": "spotify:page:0JQ5DAqbMKFNQ0fGp4byGU"
+                                },
+                                {
+                                    "content": {
+                                        "__typename": "BrowseSectionContainerWrapper",
+                                        "data": {
+                                            "__typename": "BrowseSectionContainer",
+                                            "data": {
+                                                "cardRepresentation": {
+                                                    "artwork": {
+                                                        "sources": [
+                                                            {
+                                                                "height": 300,
+                                                                "url": "https://i.scdn.co/image/ab67fb8200005cafb973ab1288f74f333e7e2e22",
+                                                                "width": 300
+                                                            }
+                                                        ]
+                                                    },
+                                                    "backgroundColor": {
+                                                        "hex": "#8c1932"
+                                                    },
+                                                    "title": {
+                                                        "transformedLabel": "Songwriters"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "uri": "spotify:page:0JQ5DAqbMKFSCjnQr8QZ3O"
+                                },
+                                {
+                                    "content": {
+                                        "__typename": "BrowseSectionContainerWrapper",
+                                        "data": {
+                                            "__typename": "BrowseSectionContainer",
+                                            "data": {
+                                                "cardRepresentation": {
+                                                    "artwork": {
+                                                        "sources": [
+                                                            {
+                                                                "height": 300,
+                                                                "url": "https://i.scdn.co/image/ab67fb8200005cafbbf84e26e69a78883118913c",
+                                                                "width": 300
+                                                            }
+                                                        ]
+                                                    },
+                                                    "backgroundColor": {
+                                                        "hex": "#477d95"
+                                                    },
+                                                    "title": {
+                                                        "transformedLabel": "Nature & Noise"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "uri": "spotify:page:0JQ5DAqbMKFI3pNLtYMD9S"
+                                },
+                                {
+                                    "content": {
+                                        "__typename": "BrowseSectionContainerWrapper",
+                                        "data": {
+                                            "__typename": "BrowseSectionContainer",
+                                            "data": {
+                                                "cardRepresentation": {
+                                                    "artwork": {
+                                                        "sources": [
+                                                            {
+                                                                "height": 300,
+                                                                "url": "https://i.scdn.co/image/ab67fb8200005cafbb0e4ea229824157eee7467d",
+                                                                "width": 300
+                                                            }
+                                                        ]
+                                                    },
+                                                    "backgroundColor": {
+                                                        "hex": "#e61e32"
+                                                    },
+                                                    "title": {
+                                                        "transformedLabel": "Funk & Disco"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "uri": "spotify:page:0JQ5DAqbMKFFsW9N8maB6z"
+                                },
+                                {
+                                    "content": {
+                                        "__typename": "BrowseSectionContainerWrapper",
+                                        "data": {
+                                            "__typename": "BrowseSectionContainer",
+                                            "data": {
+                                                "cardRepresentation": {
+                                                    "artwork": {
+                                                        "sources": [
+                                                            {
+                                                                "height": 300,
+                                                                "url": "https://i.scdn.co/image/ab67fb8200005caf2b1ff59a971dd399dea96009",
+                                                                "width": 300
+                                                            }
+                                                        ]
+                                                    },
+                                                    "backgroundColor": {
+                                                        "hex": "#148a08"
+                                                    },
+                                                    "title": {
+                                                        "transformedLabel": "League of Legends"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "uri": "spotify:page:0JQ5DAqbMKFLYQVFHcXMae"
+                                },
+                                {
+                                    "content": {
+                                        "__typename": "BrowseSectionContainerWrapper",
+                                        "data": {
+                                            "__typename": "BrowseSectionContainer",
+                                            "data": {
+                                                "cardRepresentation": {
+                                                    "artwork": {
+                                                        "sources": [
+                                                            {
+                                                                "height": 300,
+                                                                "url": "https://i.scdn.co/image/ab67fb8200005caf097a46192e6bb67e52cdff60",
+                                                                "width": 300
+                                                            }
+                                                        ]
+                                                    },
+                                                    "backgroundColor": {
+                                                        "hex": "#27856a"
+                                                    },
+                                                    "title": {
+                                                        "transformedLabel": "Summer"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "uri": "spotify:page:0JQ5DAqbMKFLVaM30PMBm4"
+                                },
+                                {
+                                    "content": {
+                                        "__typename": "BrowseSectionContainerWrapper",
+                                        "data": {
+                                            "__typename": "BrowseSectionContainer",
+                                            "data": {
+                                                "cardRepresentation": {
+                                                    "artwork": {
+                                                        "sources": [
+                                                            {
+                                                                "height": 300,
+                                                                "url": "https://i.scdn.co/image/ab67fb8200005caf4546867d66e63e828683d872",
+                                                                "width": 300
+                                                            }
+                                                        ]
+                                                    },
+                                                    "backgroundColor": {
+                                                        "hex": "#e61e32"
+                                                    },
+                                                    "title": {
+                                                        "transformedLabel": "Netflix"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "uri": "spotify:page:0JQ5DAqbMKFEOEBCABAxo9"
+                                },
+                                {
+                                    "content": {
+                                        "__typename": "BrowseSectionContainerWrapper",
+                                        "data": {
+                                            "__typename": "BrowseSectionContainer",
+                                            "data": {
+                                                "cardRepresentation": {
+                                                    "artwork": {
+                                                        "sources": [
+                                                            {
+                                                                "height": 300,
+                                                                "url": "https://i.scdn.co/image/ab67fb8200005caf43752ff9764492b8e2a5bf54",
+                                                                "width": 300
+                                                            }
+                                                        ]
+                                                    },
+                                                    "backgroundColor": {
+                                                        "hex": "#f59b23"
+                                                    },
+                                                    "title": {
+                                                        "transformedLabel": "Asian Pacific Islander Heritage Month"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "uri": "spotify:page:0JQ5DAqbMKFFgo8jQnAk7E"
+                                },
+                                {
+                                    "content": {
+                                        "__typename": "BrowseSectionContainerWrapper",
+                                        "data": {
+                                            "__typename": "BrowseSectionContainer",
+                                            "data": {
+                                                "cardRepresentation": {
+                                                    "artwork": {
+                                                        "sources": [
+                                                            {
+                                                                "height": 300,
+                                                                "url": "https://i.scdn.co/image/ab67fb8200005caf50cfe3fbd3a9fb8810da45ea",
+                                                                "width": 300
+                                                            }
+                                                        ]
+                                                    },
+                                                    "backgroundColor": {
+                                                        "hex": "#0d73ec"
+                                                    },
+                                                    "title": {
+                                                        "transformedLabel": "GLOW"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "uri": "spotify:page:0JQ5DAqbMKFGnsSfvg90Wo"
+                                },
+                                {
+                                    "content": {
+                                        "__typename": "BrowseSectionContainerWrapper",
+                                        "data": {
+                                            "__typename": "BrowseSectionContainer",
+                                            "data": {
+                                                "cardRepresentation": {
+                                                    "artwork": {
+                                                        "sources": [
+                                                            {
+                                                                "height": 300,
+                                                                "url": "https://i.scdn.co/image/ab67fb8200005caf3e87a8609ad96dd14c5e1ef3",
+                                                                "width": 300
+                                                            }
+                                                        ]
+                                                    },
+                                                    "backgroundColor": {
+                                                        "hex": "#ff4632"
+                                                    },
+                                                    "title": {
+                                                        "transformedLabel": "Music + Talk"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "uri": "spotify:page:0JQ5DAqbMKFRNXsIvgZF9A"
+                                },
+                                {
+                                    "content": {
+                                        "__typename": "BrowseSectionContainerWrapper",
+                                        "data": {
+                                            "__typename": "BrowseSectionContainer",
+                                            "data": {
+                                                "cardRepresentation": {
+                                                    "artwork": {
+                                                        "sources": [
+                                                            {
+                                                                "height": 300,
+                                                                "url": "https://i.scdn.co/image/ab67fb8200005cafa59f90c077c9f618fd0dde30",
+                                                                "width": 300
+                                                            }
+                                                        ]
+                                                    },
+                                                    "backgroundColor": {
+                                                        "hex": "#e1118c"
+                                                    },
+                                                    "title": {
+                                                        "transformedLabel": "Latin"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "uri": "spotify:page:0JQ5DAqbMKFxXaXKP7zcDp"
+                                },
+                                {
+                                    "content": {
+                                        "__typename": "BrowseSectionContainerWrapper",
+                                        "data": {
+                                            "__typename": "BrowseSectionContainer",
+                                            "data": {
+                                                "cardRepresentation": {
+                                                    "artwork": {
+                                                        "sources": [
+                                                            {
+                                                                "height": 300,
+                                                                "url": "https://t.scdn.co/images/37732285a0ff4e24987cdf5c45bdf31f.png",
+                                                                "width": 300
+                                                            }
+                                                        ]
+                                                    },
+                                                    "backgroundColor": {
+                                                        "hex": "#e8115b"
+                                                    },
+                                                    "title": {
+                                                        "transformedLabel": "Tastemakers"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "uri": "spotify:page:0JQ5DAqbMKFRKBHIxJ5hMm"
+                                }
+                            ]
+                        },
+                        "uri": "spotify:section:0JQ5DAwD41j2mAgQ1AtEZl"
+                    }
+                ]
+            },
+            "uri": "spotify:page:0JQ5DArNBzkmxXHCBROWSE"
+        }
+    },
+    "extensions": {}
+}

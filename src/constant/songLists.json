@@ -1,0 +1,83 @@
+[
+    {
+      "title": "Tum Hi Ho",
+      "singer": "Arijit Singh",
+      "timestamp": "2013",
+      "image": "https://example.com/tum_hi_ho_image.jpg",
+      "audio_url": "https://example.com/tum_hi_ho_audio.mp3",
+      "duration": "4:24" 
+    },
+    {
+      "title": "Teri Mitti",
+      "singer": "B Praak",
+      "timestamp": "2019",
+      "image": "https://example.com/teri_mitti_image.jpg",
+      "audio_url": "https://example.com/teri_mitti_audio.mp3",
+      "duration": "5:14" 
+    },
+    {
+      "title": "Chaiyya Chaiyya",
+      "singer": "Sukhwinder Singh, Sapna Awasthi",
+      "timestamp": "1998",
+      "image": "https://example.com/chaiyya_chaiyya_image.jpg",
+      "audio_url": "https://example.com/chaiyya_chaiyya_audio.mp3",
+      "duration": "6:51" 
+    },
+    {
+      "title": "Gerua",
+      "singer": "Arijit Singh, Antara Mitra",
+      "timestamp": "2015",
+      "image": "https://example.com/gerua_image.jpg",
+      "audio_url": "https://example.com/gerua_audio.mp3",
+      "duration": "5:45" 
+    },
+    {
+      "title": "Dil Diyan Gallan",
+      "singer": "Atif Aslam",
+      "timestamp": "2017",
+      "image": "https://example.com/dil_diyan_gallan_image.jpg",
+      "audio_url": "https://example.com/dil_diyan_gallan_audio.mp3",
+      "duration": "4:21" 
+    },
+    {
+      "title": "Ghar More Pardesiya",
+      "singer": "Shreya Ghoshal, Vaishali Mhade",
+      "timestamp": "2019",
+      "image": "https://example.com/ghar_more_pardesiya_image.jpg",
+      "audio_url": "https://example.com/ghar_more_pardesiya_audio.mp3",
+      "duration": "4:21" 
+    },
+    {
+      "title": "Lamberghini",
+      "singer": "The Doorbeen, Ragini",
+      "timestamp": "2018",
+      "image": "https://example.com/lamberghini_image.jpg",
+      "audio_url": "https://example.com/lamberghini_audio.mp3",
+      "duration": "3:52" 
+    },
+    {
+      "title": "Tera Ban Jaunga",
+      "singer": "Akhil Sachdeva, Tulsi Kumar",
+      "timestamp": "2019",
+      "image": "https://example.com/tera_ban_jaunga_image.jpg",
+      "audio_url": "https://example.com/tera_ban_jaunga_audio.mp3",
+      "duration": "3:57" 
+    },
+    {
+      "title": "Ghoomar",
+      "singer": "Shreya Ghoshal, Swaroop Khan",
+      "timestamp": "2018",
+      "image": "https://example.com/ghoomar_image.jpg",
+      "audio_url": "https://example.com/ghoomar_audio.mp3",
+      "duration": "4:43" 
+    },
+    {
+      "title": "Malhari",
+      "singer": "Vishal Dadlani",
+      "timestamp": "2015",
+      "image": "https://example.com/malhari_image.jpg",
+      "audio_url": "https://example.com/malhari_audio.mp3",
+      "duration": "4:11" 
+    }
+  ]
+  

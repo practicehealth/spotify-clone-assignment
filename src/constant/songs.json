@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "title": "Chaiyya Chaiyya",
+      "image": "https://example.com/chaiyya_chaiyya.jpg",
+      "description": "A popular Bollywood song from the movie 'Dil Se'."
+    },
+    {
+      "id": 2,
+      "title": "Tum Hi Ho",
+      "image": "https://example.com/tum_hi_ho.jpg",
+      "description": "A romantic song by Arijit Singh."
+    },
+    {
+      "id": 3,
+      "title": "Mere Sapno Ki Rani",
+      "image": "https://example.com/mere_sapno_ki_rani.jpg",
+      "description": "A classic Hindi song featuring Rajesh Khanna and Sharmila Tagore."
+    },
+    {
+      "id": 4,
+      "title": "Jai Ho",
+      "image": "https://example.com/jai_ho.jpg",
+      "description": "An Oscar-winning song from the movie 'Slumdog Millionaire', composed by A.R. Rahman."
+    },
+    {
+      "id": 5,
+      "title": "Tunak Tunak Tun",
+      "image": "https://example.com/tunak_tunak_tun.jpg",
+      "description": "A Punjabi pop song by Daler Mehndi, known for its infectious beats and colorful music video, which became a global sensation."
+    },
+    {
+      "id": 6,
+      "title": "Ghoomar",
+      "image": "https://example.com/ghoomar.jpg",
+      "description": "A traditional Rajasthani folk song featured in the movie 'Padmaavat', known for its graceful dance moves and rich cultural elements."
+    },
+    {
+      "id": 7,
+      "title": "Ae Dil Hai Mushkil",
+      "image": "https://example.com/ae_dil_hai_mushkil.jpg",
+      "description": "A romantic ballad from the movie of the same name, composed by Pritam and sung by Arijit Singh, expressing the complexities of love and heartbreak."
+    },
+    {
+      "id": 8,
+      "title": "Radha",
+      "image": "https://example.com/radha.jpg",
+      "description": "A peppy song from the movie 'Student of the Year', featuring upbeat music and vibrant choreography, capturing the essence of youth and romance."
+    }
+  ]
+  
