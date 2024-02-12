@@ -3,8 +3,11 @@
 import { IoIosArrowBack, IoIosArrowForward } from 'react-icons/io';
 // import SearchBox from './SearchBox';
 import Button from './Button';
+import SearchBox from './SearchBox';
+import { useLocation } from 'react-router-dom';
 
 export default function Navbar() {
+    const location = useLocation();
     return (
         <header className='flex h-[64px] w-full items-center gap-[8px] justify-between z-10 px-[24px] bg-spotify-black'>
             <div className='flex items-center gap-[8px]'>
@@ -12,9 +15,9 @@ export default function Navbar() {
                 <ArrowButtons icon={<IoIosArrowForward color='#919191' size={28} />} />
             </div>
 
-            {/* <div className='flex-grow'>
+            {location.pathname === '/search' && <div className='flex-grow'>
                 <SearchBox />
-            </div> */}
+            </div>}
 
             <div className='flex flex-row flex-nowrap gap-[2px]'>
                 <Button
