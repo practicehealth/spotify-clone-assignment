@@ -16,7 +16,6 @@ const Header: React.FC<HeaderProps> = ({ children, className }) => {
   const { pathname } = useLocation();
   return (
     <div
-      //  bg-gradient-to-b from-emerald-800
       className={twMerge(
         `
         px-6 py-4 space-y-4
@@ -60,7 +59,7 @@ const Header: React.FC<HeaderProps> = ({ children, className }) => {
 
         {/* Fix height thing and also conditinally add the flex to have the arrows and search in a same container */}
         {pathname === '/search' && (
-          <div className="hidden md:flex h-9 items-center w-[300px] ml-3  rounded-full border-2">
+          <div className="hidden md:flex h-9 items-center w-[300px] ml-3 rounded-full border-2">
             <img className="ml-2" src={searchIcon} alt="" />
             <input
               id="search-input"
