@@ -1,4 +1,4 @@
-{ 
+{
     "SpotifyPlaylists": [
         {
             "title": "Today's Top Hits",
@@ -9,12 +9,12 @@
             "title": "Chillhop",
             "description": "Blissed out beats and head nodding grooves",
             "imageUrl": "assets/sleep-1.jpeg"
-        }, 
+        },
         {
             "title": "Jazz in the Background",
             "description": "Soft Instrumental Jazz for all your activities",
             "imageUrl": "assets/sleep-1.jpeg"
-        }, 
+        },
         {
             "title": "Calming Acoustic",
             "description": "Keep calm with instrumental acoustic",
@@ -25,30 +25,35 @@
             "description": "iykyk",
             "imageUrl": "assets/sleep-1.jpeg"
         }
-    ], 
-    "Sleep" : [
+    ],
+    "Sleep": [
         {
-            "title":"Sleep",
+            "title": "Sleep",
             "description": "Gentle Ambient piano to help you fall asleep.",
             "imageUrl": "assets/sleep-1.jpeg"
         },
         {
-            "title":"DayDreamer",
+            "title": "DayDreamer",
             "description": "Drift away with enthralling instruments",
             "imageUrl": "assets/sleep-1.jpeg"
         }
-
-    ], 
-    "Categories": [ 
-        "Podcasts",
-        "LiveEvents",
-        "Made For You",
-        "New Releases", 
-        "Hindi", 
-        "Punjabi",
-        "Tamil",
-        "Ghazals",
-        "Telugu",
-        "Trending"
+    ],
+    "Categories": [
+        {
+            "title": "Podcasts",
+            "color": "#ff0000"
+        },
+        {
+            "title": "Events",
+            "color": "#FFF"
+        },
+        {
+            "title": "Hindi",
+            "color": "#FFF"
+        },
+        {
+            "title": "Trending",
+            "color": "#FFF"
+        }
     ]
 }
