@@ -1,6 +1,6 @@
 This Project is Implemented using reactjs with vite, redux, material UI and Tailwind CSS
 
-Login Page: ![LoginPage](images/Login Page.jpg)
+Login Page: ![LoginPage](images/LoginPage.jpg)
 
 PlayList Page: ![PlayListPage](images/PlayListPage.jpg)
 
