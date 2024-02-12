@@ -41,7 +41,7 @@ function Navbar({ flag=false }) {
         </div>
       </nav>
       <div className=" md:hidden flex flex-col  xs:flex-row text-white items-center md:justify-start px-4 py-3 w-screen">
-        <h3 className=" text-2xl font-bold">Search</h3>
+        <h3 className={` text-2xl font-bold ${flag === false ? 'hidden' : ''} `}>Search</h3>
          <Search flag={flag} />
       </div>
     </div>
