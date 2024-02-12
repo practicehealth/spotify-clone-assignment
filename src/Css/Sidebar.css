@@ -1,0 +1,12 @@
+.sidebar {
+    @apply flex flex-col flex-[0.2] min-w-[230px] h-screen text-[white] bg-[#040404] px-2.5;
+}
+
+.sidebar__logo {
+    @apply object-contain h-[70px] mr-auto p-2.5;
+}
+
+.sidebar__title {
+    @apply text-xs ml-2.5 p-[5px];
+}
+  

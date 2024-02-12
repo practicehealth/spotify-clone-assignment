@@ -1,0 +1,19 @@
+.sidebarOption {
+    @apply flex cursor-pointer items-center h-10 text-[grey] transition-[200ms] duration-[color] ease-[ease-in];
+}
+
+.sidebarOption:hover {
+    @apply text-[white];
+}
+
+.sidebarOption__icon {
+    @apply pl-[5px] pr-1.5;
+}
+
+.sidebar > hr {
+    @apply border w-[90%] mx-auto my-2.5 border-solid border-[#282828];
+}
+
+.sidebarOption > p {
+    @apply text-sm ml-5 mt-2.5;
+}

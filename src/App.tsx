@@ -1,35 +1,71 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
+import { useEffect, useState } from 'react'
 import './App.css'
+import Login from './Pages/Login';
+import { getToKenFromUrl } from './Pages/spotify';
+import SpotifyWebApi from 'spotify-web-api-js';
+import Player from './Pages/Player';
+import { useDataLayerValue } from './Pages/DataLayer';
+
+const s = new SpotifyWebApi();
 
 function App() {
-  const [count, setCount] = useState(0)
+  const [{ token }, dispatch] = useDataLayerValue();
+
+  useEffect(() => {
+    // Set token
+    const hash = getToKenFromUrl();
+    window.location.hash = "";
+    let _token = hash.access_token;
+
+    if (_token) {
+      s.setAccessToken(_token);
+
+      dispatch({
+        type: "SET_TOKEN",
+        token: _token,
+      });
+
+      s.getPlaylist("").then((response) => //Add PlayList Token
+        dispatch({
+          type: "SET_DISCOVER_WEEKLY",
+          discover_weekly: response,
+        })
+      );
+
+      s.getMyTopArtists().then((response) =>
+        dispatch({
+          type: "SET_TOP_ARTISTS",
+          top_artists: response,
+        })
+      );
+
+      dispatch({
+        type: "SET_SPOTIFY",
+        spotify: s,
+      });
+
+      s.getMe().then((user) => {
+        dispatch({
+          type: "SET_USER",
+          user,
+        });
+      });
+
+      s.getUserPlaylists().then((playlists) => {
+        dispatch({
+          type: "SET_PLAYLISTS",
+          playlists,
+        });
+      });
+    }
+  }, [token, dispatch]);
 
   return (
-    <>
-      <div>
-        <a href="https://vitejs.dev" target="_blank">
-          <img src={viteLogo} className="logo" alt="Vite logo" />
-        </a>
-        <a href="https://react.dev" target="_blank">
-          <img src={reactLogo} className="logo react" alt="React logo" />
-        </a>
-      </div>
-      <h1>Vite + React</h1>
-      <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
-        <p>
-          Edit <code>src/App.tsx</code> and save to test HMR
-        </p>
-      </div>
-      <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
-      </p>
-    </>
-  )
+    <div className="app">
+      {!token && <Login />}
+      {token && <Player spotify={s} />}
+    </div>
+  );
 }
 
 export default App

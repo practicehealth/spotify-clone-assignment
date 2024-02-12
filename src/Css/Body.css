@@ -1,0 +1,49 @@
+.body {
+    @apply w-full h-screen flex-[0.8] text-[white] p-[30px];
+    overflow-y: overlay;
+    background: linear-gradient(rgb(91,87,115), rgba(0, 0, 0, 1));
+}
+
+.body::-webkit-scrollbar {
+    @apply hidden;
+}
+
+.body__info {
+  @apply flex items-end p-2.5;
+}
+
+.body__shuffle {
+  @apply text-[80px] ml-[50px] my-5 hover:transition-[100ms] hover:duration-[transform] hover:ease-[ease-in] hover:scale-[1.08];
+}
+
+.body__icons {
+  @apply flex items-center;
+}
+
+.body__icons > .MuiSvgIcon-root {
+  @apply mr-5;
+}
+
+.body__background {
+  @apply absolute opacity-40 h-4/5 w-4/5 bg-[black] right-0 top-[13vh];
+}
+
+.body__songs {
+  @apply z-[1] mr-[-30px] ml-[-30px] my-5;
+}
+
+.body__info > img {
+  @apply h-[20vw] shadow-[0_4px_60px_rgba(0,0,0,0.5)] mx-5 my-0;
+}
+
+.body__infoText {
+  @apply flex-1;
+}
+
+.body__infoText > h2 {
+  @apply text-5xl mb-2.5;
+}
+
+.body__infoText > p {
+  @apply text-sm;
+}  

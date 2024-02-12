@@ -1,0 +1,11 @@
+.login {
+    @apply grid bg-[black] h-screen place-items-center;
+}
+
+.login > img {
+    @apply h-[200px];
+}
+
+.login > a {
+    @apply text-[white] no-underline font-extrabold bg-[#1db954] p-5 rounded-[99px];
+}
