@@ -1,50 +1,44 @@
-import React from "react";
-import { useSelector, useDispatch } from "react-redux";
-import { NavLink } from "react-router-dom";
-import { UilGlobe, UilTimes } from "@iconscout/react-unicons";
-import { isOpen } from "../stores/mySlice";
 import { Icon } from "../Icons";
-import logo from "../img/logo.svg";
-import Menu from "../components/Sidebar/Menu";
+import Menu from "./Sidebar/Menu";
+import { UilGlobe, UilTimes } from "@iconscout/react-unicons";
+import { useDispatch, useSelector } from "react-redux";
+import { NavLink } from "react-router-dom";
+import { isOpen } from "../stores/mySlice";
 
-interface SidebarProps {
-  flag: boolean;
-}
-
-const Sidebar: React.FC<SidebarProps> = ({ flag }) => {
+function Sidebar() {
   const show = useSelector((state:any) => state.show);
   const dispatch = useDispatch();
   console.log(show);
 
   return (
-    <div className="absolute z-50 lg:static min-h-screen rounded-lg">
+    <div className=" absolute z-50 lg:static min-h-screen rounded-lg">
       <aside
         className={`w-70 2xl:w-80 px-2 pt-6 ${
           show.show ? "hidden" : ""
         } lg:flex flex-shrink-0 flex-col bg-black text-white min-h-screen  relative`}
       >
         <div
-          className="lg:hidden p-2 cursor-pointer"
+          className=" lg:hidden p-2 cursor-pointer"
           onClick={() => dispatch(isOpen())}
         >
-          <UilTimes className="w-10 h-10 mb-2" />
+          <UilTimes className=" w-10 h-10 mb-2" />
         </div>
         <div className="bg-slate-500 rounded-lg px-2 bg-opacity-30">
           <NavLink to="/" className="px-6">
-            <img width={100} src={logo} alt="" className="h-5" />
+            <img width={100} src={'/logo.svg'} alt="" className="h-5" />
           </NavLink>
           <Menu />
         </div>
 
         <div className="bg-slate-500 px-2 bg-opacity-30 mt-1 rounded-lg">
-          <nav className="mt-1 mb-1">
+          <nav className="mt-1 mb-1 ">
             <ul>
               <li>
                 <NavLink
                   to=""
-                  className="py-2 pl-5 flex items-center justify-between group text-sm text-link font-semibold hover:text-white"
+                  className="py-2 pl-5 flex items-center justify-between group text-sm text-link font-semibold hover:text-white "
                 >
-                  <div className="flex gap-2">
+                  <div className=" flex gap-2 ">
                     <Icon name="collection" />
                     Your Library
                   </div>
@@ -103,6 +97,6 @@ const Sidebar: React.FC<SidebarProps> = ({ flag }) => {
       </aside>
     </div>
   );
-};
+}
 
 export default Sidebar;

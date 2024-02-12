@@ -1,10 +1,8 @@
 import { configureStore } from '@reduxjs/toolkit';
 import mySliceReducer from './mySlice';
 
-const store = configureStore({
+export default configureStore({
   reducer: {
     show: mySliceReducer
   },
 });
-
-export default store;
