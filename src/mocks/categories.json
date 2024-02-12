@@ -1,0 +1,74 @@
+{
+    "categories" : [
+        {
+            "id": 1,
+            "name": "Podcasts",
+            "image" : "https://i.scdn.co/image/ab6765630000ba8a81f07e1ead0317ee3c285bfa",
+            "color" : "#006450",
+            "href" : "#"
+        },
+        {
+            "id": 2,
+            "name": "Live Events",
+            "image" : "https://concerts.spotifycdn.com/images/live-events_category-image.jpg",
+            "color" : "#8400e7",
+            "href" : "#"
+        },
+        {
+            "id": 3,
+            "name": "Made For You",
+            "image" : "https://t.scdn.co/images/ea364e99656e46a096ea1df50f581efe",
+            "color" : "#1e3264",
+            "href" : "#"
+        },
+        {
+            "id": 4,
+            "name": "New Releases",
+            "image" : "https://i.scdn.co/image/ab67706f000000027ea4d505212b9de1f72c5112",
+            "color" : "#e8115b",
+            "href" : "#"
+        },
+        {
+            "id": 5,
+            "name": "Hindi",
+            "image" : "https://i.scdn.co/image/ab67fb8200005caff5976b97bcf10d98acbae2cd",
+            "color" : "#dc148c",
+            "href" : "#"
+        },
+        {
+            "id": 6,
+            "name": "Tamil",
+            "image" : "https://i.scdn.co/image/ab67fb8200005caf4b3beede484da74b233fa299",
+            "color" : "#b02897",
+            "href" : "#"
+        },
+        {
+            "id": 7,
+            "name": "Ghazals",
+            "image" : "https://i.scdn.co/image/ab67fb8200005caf666a4ae3e6161da7a120ca14",
+            "color" : "#777777",
+            "href" : "#"
+        },
+        {
+            "id": 8,
+            "name": "Podcats Charts",
+            "image" : "https://t.scdn.co/images/7262179db37c498480ef06bfacb60310.jpeg",
+            "color" : "#0d73ec",
+            "href" : "#"
+        },
+        {
+            "id": 9,
+            "name": "Podcats New Releases",
+            "image" : "https://t.scdn.co/images/209c867f5bb34076b0dcc9deeb1868e6",
+            "color" : "#8e66ac",
+            "href" : "#"
+        },
+        {
+            "id": 10,
+            "name": "Video Podcasts",
+            "image" : "https://i.scdn.co/image/9af79fd06e34dea3cd27c4e1cd6ec7343ce20af4",
+            "color" : "#e13300",
+            "href" : "#"
+        }
+    ]
+}

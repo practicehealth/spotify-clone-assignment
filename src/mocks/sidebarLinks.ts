@@ -6,12 +6,14 @@ const sidebarLinks = [
     {
         title : "Home",
         unselectedIcon : GoHomeFill,
-        selectedIcon : GoHome
+        selectedIcon : GoHome,
+        href : "/"
     },
     {
         title : "Search",
         unselectedIcon : LuSearch,
-        selectedIcon : LuSearch
+        selectedIcon : LuSearch,
+        href  : "/search"
     },
 ];
 

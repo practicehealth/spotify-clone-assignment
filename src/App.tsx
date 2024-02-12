@@ -11,8 +11,8 @@ export default function App() {
       <Routes>
         <Route path='/' element={<Mainlayout />}>
           <Route path='' element={<Home />} />
-          <Route path='/search' element={<Search />} />
-          <Route path='/serachresult' element={<SearchResult />} />
+          <Route path='search' element={<Search />} />
+          <Route path='serachresult' element={<SearchResult />} />
         </Route>
       </Routes>
     </BrowserRouter>

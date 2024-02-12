@@ -22,18 +22,23 @@ export default function Button({ size, variant, onClick, children, className, hr
             }
             className={`
                 flex
+                text-base
                 items-center
                 gap-2
                 py-2 
-                px-4 
+                px-4
+                font-bold 
+                cursor-pointer
+                text-center
                 rounded-full
-                font-bold
+                duration-300
+                :hover-scale-110
                 ${variant === 'contained' ? 'bg-white text-black' : ''}
                 ${variant === 'outlined' ? 'bg-transparent text-white border' : ''}
                 ${variant === 'link' ? 'bg-transparent text-spotify-disabled' : ''}
-                ${size === 'small' ? 'text-sm py-1 px-4' : ''}
-                ${size === 'medium' ? 'text-base py-2 px-6' : ''}
-                ${size === 'large' ? 'text-md py-3 px-8' : ''}
+                ${size === 'small' ? 'py-[8px] text-sm px-[18px]' : ''}
+                ${size === 'medium' ? 'py-[12px] px-[32px]' : ''}
+                ${size === 'large' ? 'py-3 px-8' : ''}
                 border-white
                 ${className}
             `}

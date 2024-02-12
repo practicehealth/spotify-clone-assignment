@@ -1,22 +1,22 @@
 // import React from 'react'
 
 import { IoIosArrowBack, IoIosArrowForward } from "react-icons/io";
-import SearchBox from "./SearchBox";
+// import SearchBox from "./SearchBox";
 import Button from "./Button";
 
 export default function Navbar() {
     return (
-        <header className="flex h-[64px] w-full items-center gap-[8px] justify-between z-10 px-[24px]">
+        <header className="flex h-[64px] w-full items-center gap-[8px] justify-between z-10 px-[24px] bg-spotify-black">
             <div className="flex items-center gap-[8px]">
                 <ArrowButtons icon={<IoIosArrowBack fontSize={28} />} />
                 <ArrowButtons icon={<IoIosArrowForward color="#919191" size={28} />} />
             </div>
 
-            <div className="flex-grow">
+            {/* <div className="flex-grow">
                 <SearchBox />
-            </div>
+            </div> */}
 
-            <div className='flex flex-row flex-nowrap gap-[8px]'>
+            <div className='flex flex-row flex-nowrap gap-[2px]'>
                 <Button
                     variant="link"
                     size="medium"

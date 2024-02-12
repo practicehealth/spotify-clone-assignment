@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 :root {
-  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  font-family: "Figtree", sans-serif;
   font-weight: 400;
   font-synthesis: none;
   text-rendering: optimizeLegibility;
@@ -18,3 +18,53 @@
   padding: 0px;
   box-sizing: border-box;
 }
+
+::-webkit-scrollbar {
+  display: none;
+}
+
+::-webkit-scrollbar-track {
+  width: 0px;
+  display: none;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: gray;
+  opacity: 50%;
+  width: 15px;
+}
+
+.bg-gradient {
+  background: rgb(0, 0, 0);
+  background: linear-gradient(360deg, rgba(0, 0, 0, 1) 50%, rgba(31, 31, 31, 1) 100%);
+}
+
+.bg-gradient-footer {
+  background: rgb(174, 40, 150);
+  background: linear-gradient(90deg, rgba(174, 40, 150, 1) 9%, rgba(80, 154, 244, 1) 100%);
+}
+
+.rotate-img-180 {
+  transform: rotate(25deg) translate(18%, -2%);
+}
+
+/* .control-scrollbar {
+  ::-webkit-scrollbar-thumb{
+    display: none;
+  }
+}
+
+.scrollbar-container:hover{
+  transition: all  0.3s ease-in-out;
+  ::-webkit-scrollbar-thumb{
+    display: block;
+    width: 12px;
+    background-color: gray;
+    opacity: 50%;
+  }
+
+  ::-webkit-scrollbar-track{
+    display: none;
+    width : 0px;
+  }
+} */
