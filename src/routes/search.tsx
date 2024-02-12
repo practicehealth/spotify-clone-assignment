@@ -8,7 +8,7 @@ import SingupFooter from "../components/singupfooter"
 
 
 export default function Search() {
-  const [searchValue, setSearchValue] = useState<string>("");
+  const [searchValue, setSearchValue] = useState(String);
   console.log(searchValue);
 
   return (
