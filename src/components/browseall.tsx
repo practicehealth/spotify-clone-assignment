@@ -1,4 +1,3 @@
-
 const playlistData = [
   {
     imgSrc: "https://i.scdn.co/image/ab67706f000000026e515187c071e45918e9f0de",
@@ -79,20 +78,23 @@ const playlistData = [
     subTitle: "The perfect soundtrack to those long nights over dinner",
   },
 ];
-export default function BrowseAll() {
+export default function BrowseAll(props: string) {
+  const { searchValue } = props;
   return (
     <div className="p-4 text-white bg-[#1e1e1e] rounded flex flex-col pt-16">
-      <h1 className="font-bold text-2xl">Browse all</h1>
+      <h1 className="text-2xl font-bold">Browse all</h1>
 
-      <div className="grid grid-cols-5 grid-auto-rows-auto gap-4">
-        {playlistData.map((item, index) => (
-          <div key={index} style={{ backgroundColor: item.bgColor }} className={`overflow-hidden h-44 relative font-bold p-4 w-full cursor-pointer rounded-lg flex flex-col hover:bg-zinc-800 transition duration-300 ease-out`}>
-            <span className="text-xl">{item.title}</span>
-            <div className="absolute -right-4 -bottom-3 w-24 h-24 origin-bottom -rotate-12 ">
-                <img className="" src={item.imgSrc}/>
+      <div className="grid grid-cols-5 gap-4 grid-auto-rows-auto">
+        {playlistData
+          .filter((item) => item.title.toLocaleLowerCase().includes(searchValue.toLocaleLowerCase()))
+          .map((item, index) => (
+            <div key={index} style={{ backgroundColor: item.bgColor }} className={`overflow-hidden h-44 relative font-bold p-4 w-full cursor-pointer rounded-lg flex flex-col hover:bg-zinc-800 transition duration-300 ease-out`}>
+              <span className="text-xl">{item.title}</span>
+              <div className="absolute w-24 h-24 origin-bottom -right-4 -bottom-3 -rotate-12 ">
+                <img className="" src={item.imgSrc} alt={item.title} />
+              </div>
             </div>
-          </div>
-        ))}
+          ))}
       </div>
     </div>
   );

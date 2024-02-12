@@ -1,10 +1,9 @@
-import { useState } from "react";
 import { SlArrowLeft, SlArrowRight } from "react-icons/sl";
 import { useLocation, useNavigate } from "react-router-dom";
-export default function Header() {
+export default function Header(props:string) {
+    const {setSearchValue, searchValue} = props;
     const location = useLocation();
     const { pathname } = location;
-    const [searchValue, setSearchValue] = useState("");
     const navigate = useNavigate();
     const navigateHome  = () => {
         // 👇️ navigate to home screen
@@ -15,11 +14,10 @@ export default function Header() {
         navigate('/search');
       };
 
-        console.log(searchValue);
         // Perform search logic here with the searchValue
     return (
         <header className="w-full h-[64px] rounded-t bg-[#111111] flex justify-between items-center sticky z-50 top-0 p-4">
-            <ul className="flex gap-2 justify-center items-center">
+            <ul className="flex items-center justify-center gap-2">
                 <li className="bg-[#090909] rounded-full w-8 h-8 flex items-center justify-center">
                     <SlArrowLeft className="w-4 h-4 text-[#a4a4a4] cursor-pointer" onClick={navigateHome}/>
                 </li>
@@ -28,7 +26,7 @@ export default function Header() {
                 </li>
                 {
                     pathname === "/search" && <div className="relative w-80 rounded-3xl ">
-                        <div className="absolute inset-y-0 start-0 flex items-center ps-3 pointer-events-none">
+                        <div className="absolute inset-y-0 flex items-center pointer-events-none start-0 ps-3">
                             <svg className="w-4 h-4 text-gray-500 dark:text-gray-400" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 20 20">
                                 <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m19 19-4-4m0-7A7 7 0 1 1 1 8a7 7 0 0 1 14 0Z" />
                             </svg>
@@ -43,10 +41,10 @@ export default function Header() {
 
 
 
-            <ul className="flex gap-4 justify-center items-center">
+            <ul className="flex items-center justify-center gap-4">
                 <li className="text-[#a4a4a4] cursor-pointer">Sign up</li>
-                <div className="bg-white rounded-2xl w-20 py-2 flex justify-center items-center cursor-pointer">
-                    <li className="text-black font-semibold">Log in</li>
+                <div className="flex items-center justify-center w-20 py-2 bg-white cursor-pointer rounded-2xl">
+                    <li className="font-semibold text-black">Log in</li>
                 </div>
             </ul>
 
