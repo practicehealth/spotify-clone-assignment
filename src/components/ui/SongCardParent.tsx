@@ -13,7 +13,7 @@ type Props = {
 
 const SongCardParent = ({ title, songs,gradient=false }: Props) => {
   return (
-    <div className={cn("px-6", gradient && "bg-secondary-gray")}>
+    <div className={cn("px-6 pb-4", gradient && "bg-secondary-gray")}>
       <div className="flex items-center justify-between my-4">
         <Link to={"/"} className="text-2xl font-bold text-white hover:underline">{title}</Link>
         {songs.length > 5 && (
