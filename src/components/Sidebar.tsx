@@ -1,23 +1,29 @@
+import { Link, useLocation } from "react-router-dom"
 import SpotifyLogo from "../assets/SpotifyLogo"
 
 function Sidebar() {
+const {pathname} = useLocation()
   return (
     <div className="sidebar w-full relative overflow-hidden py-8 px-2 bg-[#121212]">
         <div className="px-6">
                 <SpotifyLogo />
-                <ul className="mt-3 flex flex-col gap-2 text-white text-sm font-medium text-left">
-                    <li className="h-10 flex gap-5 items-center text-base font-semibold cursor-pointer"> 
-                        <svg width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
-                            <path d="M11.5 0.515022C11.0439 0.251717 10.5266 0.113098 10 0.113098C9.47339 0.113098 8.95606 0.251717 8.5 0.515022L1 4.84502C0.695969 5.02055 0.443498 5.27302 0.267962 5.57705C0.0924258 5.88108 8.91844e-06 6.22596 0 6.57702V20C0 20.2652 0.105357 20.5196 0.292893 20.7071C0.48043 20.8947 0.734784 21 1 21H7C7.26522 21 7.51957 20.8947 7.70711 20.7071C7.89464 20.5196 8 20.2652 8 20V14H12V20C12 20.2652 12.1054 20.5196 12.2929 20.7071C12.4804 20.8947 12.7348 21 13 21H19C19.2652 21 19.5196 20.8947 19.7071 20.7071C19.8946 20.5196 20 20.2652 20 20V6.57702C20 6.22596 19.9076 5.88108 19.732 5.57705C19.5565 5.27302 19.304 5.02055 19 4.84502L11.5 0.515022Z" fill="white"/>
+                <ul className={` mt-3 flex flex-col gap-2 text-sm font-medium text-left`}>
+                    <Link to={'/'}>
+                      <li className="h-10 flex gap-5 items-center text-base font-semibold cursor-pointer"> 
+                        <svg className={pathname === '/' ? 'fill-white' : 'fill-none'} width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M11.5 0.515022C11.0439 0.251717 10.5266 0.113098 10 0.113098C9.47339 0.113098 8.95606 0.251717 8.5 0.515022L1 4.84502C0.695969 5.02055 0.443498 5.27302 0.267962 5.57705C0.0924258 5.88108 8.91844e-06 6.22596 0 6.57702V20C0 20.2652 0.105357 20.5196 0.292893 20.7071C0.48043 20.8947 0.734784 21 1 21H7C7.26522 21 7.51957 20.8947 7.70711 20.7071C7.89464 20.5196 8 20.2652 8 20V14H12V20C12 20.2652 12.1054 20.5196 12.2929 20.7071C12.4804 20.8947 12.7348 21 13 21H19C19.2652 21 19.5196 20.8947 19.7071 20.7071C19.8946 20.5196 20 20.2652 20 20V6.57702C20 6.22596 19.9076 5.88108 19.732 5.57705C19.5565 5.27302 19.304 5.02055 19 4.84502L11.5 0.515022Z" stroke="#a7a7a7" strokeWidth={1}/>
                         </svg>
-                       Home
-                    </li>
-                    <li className="h-10 flex gap-5 items-center text-base font-semibold cursor-pointer"> 
-                       <svg width="22" height="22" viewBox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg">
-                            <path d="M9.533 0.278931C4.35215 0.278931 0.125977 4.41887 0.125977 9.5579C0.125977 14.697 4.35215 18.8369 9.533 18.8369C11.767 18.8369 13.8235 18.0671 15.4402 16.7794L19.7929 21.132C20.1834 21.5226 20.8166 21.5226 21.2071 21.132C21.5976 20.7415 21.5976 20.1083 21.2071 19.7178L16.8634 15.3741C18.1616 13.7849 18.94 11.7634 18.94 9.5579C18.94 4.41887 14.7138 0.278931 9.533 0.278931ZM2.12598 9.5579C2.12598 5.55226 5.42768 2.27893 9.533 2.27893C13.6383 2.27893 16.94 5.55226 16.94 9.5579C16.94 13.5636 13.6383 16.8369 9.533 16.8369C5.42768 16.8369 2.12598 13.5636 2.12598 9.5579Z" fill="white"/>
-                        </svg>
-                       Search
-                    </li>
+                        <h4 className={`${pathname === '/' ? 'text-white' : 'text-[#a7a7a7]' } `}>Home</h4>
+                      </li>
+                    </Link>
+                    <Link to={'/search'}>
+                        <li className="h-10 flex gap-5 items-center text-base font-semibold cursor-pointer"> 
+                        <svg className={pathname === '/' ? 'fill-none' : 'fill-white'} width="22" height="22" viewBox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M9.533 0.278931C4.35215 0.278931 0.125977 4.41887 0.125977 9.5579C0.125977 14.697 4.35215 18.8369 9.533 18.8369C11.767 18.8369 13.8235 18.0671 15.4402 16.7794L19.7929 21.132C20.1834 21.5226 20.8166 21.5226 21.2071 21.132C21.5976 20.7415 21.5976 20.1083 21.2071 19.7178L16.8634 15.3741C18.1616 13.7849 18.94 11.7634 18.94 9.5579C18.94 4.41887 14.7138 0.278931 9.533 0.278931ZM2.12598 9.5579C2.12598 5.55226 5.42768 2.27893 9.533 2.27893C13.6383 2.27893 16.94 5.55226 16.94 9.5579C16.94 13.5636 13.6383 16.8369 9.533 16.8369C5.42768 16.8369 2.12598 13.5636 2.12598 9.5579Z" stroke="#a7a7a7"/>
+                            </svg>
+                         <h4 className={`${pathname === '/' ? 'text-[#a7a7a7]' : 'text-[#fff]' } `}>Search</h4>
+                        </li>
+                    </Link>
                     <li className="mt-5 h-10 flex justify-between items-center text-base font-semibold cursor-pointer text-[#a7a7a7]"> 
                         <span className="flex gap-4">
                        <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -68,7 +74,7 @@ function Sidebar() {
                         English
                     </button>
                 </div>
-                <div className=" flex justify-between items-center fixed bottom-1 w-[98%] mx-auto bg-gradient-to-r from-[#ae2997] to-blue-500 p-3">
+                <div className=" z-10 flex justify-between items-center fixed bottom-0 w-[98%] mx-auto bg-gradient-to-r from-[#ae2997] to-blue-500 p-3">
                     <div>
                         <h5>Preview Spotify</h5>
                         <p className="text-[0.875rem] font-normal">Sign up to get unlimited songs and podcasts with occasional ads. No credit card needed.</p>
@@ -76,8 +82,6 @@ function Sidebar() {
                     <button className="bg-white text-black text-[0.875rem] pt-2 flex items-center justify-center h-[2rem] px-3 rounded-3xl">
                           Sign up free
                     </button>
-                    
-
                 </div>
     </div>
   )
