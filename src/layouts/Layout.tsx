@@ -29,7 +29,7 @@ const Layout: React.FC<LayoutProps> = ({ children }) => {
         </header>
 
         {/* Main content */}
-        <main className="flex-1 ml-2 overflow-x-hidden overflow-y-auto">
+        <main className="flex-1 ml-2 overflow-x-hidden overflow-y-auto max-h-[89%]">
             {children}
         </main>
       </div>
