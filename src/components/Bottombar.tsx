@@ -6,7 +6,7 @@ const Bottombar = () => {
       <section>
         <h3 className="font-bold text-sm">Preiew of Spotify</h3>
         <p>
-          Sign up to get unnlimited songs and podcasts with occasional ads. No
+          Sign up to get unlimited songs and podcasts with occasional ads. No
           credit card needed.
         </p>
       </section>
