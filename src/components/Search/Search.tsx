@@ -1,10 +1,11 @@
 import React from 'react'
+import Layout from '../../layouts/Layout'
 
 type Props = {}
 
 const Search = (props: Props) => {
   return (
-    <div>Search</div>
+    <Layout>Search</Layout>
   )
 }
 
