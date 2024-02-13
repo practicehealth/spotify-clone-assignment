@@ -8,3 +8,7 @@ body {
 .signika {
   font-family: "Signika", sans-serif;
 }
+
+button {
+  transition: all 0.3s ease; /* Adjust the duration and easing as needed */
+}
