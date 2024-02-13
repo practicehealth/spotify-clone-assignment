@@ -1,72 +1,36 @@
-# Spotify Clone Assignment
-Welcome to the Spotify Clone assignment! In this assignment, you'll be tasked with creating a Spotify clone using React, Vite for project setup, and Tailwind CSS for styling. Your application will consist of two main pages: the homepage and the search page. Additionally, you have the option to include a third page for search results.
+# Spotify Clone
 
-## Instructions
-Fork this Repository: Start by forking this repository to your GitHub account. This will allow you to work on your own copy of the project without affecting the original repository.
+This project is a Spotify clone created for the assignment, utilizing React with TypeScript, Tailwind CSS, and JSON data.
 
-Clone the Repository: Once you've forked the repository, clone it to your local machine using the following command:
+**Note:** I apologize for the late submission. Due to personal reasons, I was unavailable on Sunday and had to find time between my working hours to complete this assignment.
 
-```bash
-git clone https://github.com/practicehealth/spotify-clone-assignment.git
-```
+## Tasks Completed
 
-Set Up Environment: Make sure you have Node.js installed on your machine. Then navigate to the project directory and install the dependencies using npm or yarn:
+- **Spotify-Like Interface**: Mimics the look and feel of the Spotify app for a seamless user experience.
+- **Dynamic Data Rendering**: Utilizes JSON data to dynamically render content.
 
-```bash
-cd spotify-clone
-npm install
-```
-<!-- ####  Project Structure: 
-Familiarize yourself with the project structure. You'll find directories for components, pages, assets, and other necessary files. -->
+## Technologies Used
 
-#### Implement the UI Components: 
-Your task is to implement the UI components for the homepage, search page, and optionally the search results page. Use Tailwind CSS for styling and ensure that all UI components read data from a JSON file. Avoid hardcoding any artist names or other data directly into the components.
+- **React**: A JavaScript library for building user interfaces.
+- **TypeScript**: A statically typed superset of JavaScript that adds optional static typing.
+- **Tailwind CSS**: A utility-first CSS framework for rapidly building custom user interfaces.
+- **JSON**: Lightweight data-interchange format for storing playlist, song, and artist information.
 
-#### Mock Data from JSON: 
-Populate the data.json file with mock data for your application. This data will be used to populate the UI components.
+## Installation
 
-#### Create Pages:
-Implement the logic for routing and create the necessary React components for the homepage, search page, and search results page (if you choose to include it). Ensure that the pages display the correct content and styles.
-The design should be responsive on all devices including smartphones, tablets, and desktops.
+This project is deployed on Vercel and can be accessed at [https://spotify-clone-assignment-ghqo.vercel.app/](https://spotify-clone-assignment-ghqo.vercel.app/).
 
-#### Screenshots
-Here are the screenshots of the pages you need to create:
+## Paths
 
-Homepage: ![Homepage](images/homepage.png)
+- Navigate to `/search` to search for specific songs, albums, or artists.
+- Navigate to `/home` to browse through playlists, albums, and artists.
 
-Search Page: ![SearchPage](images/search.png)
+## Credits
 
-(Optional) Search Results Page:![SearchResults](images/search-result2.png)
+This project was created by Ziya Uddin.
 
-#### Testing: Test your application locally to ensure that all features work as expected. Use the Vite development server to run your application:
+## Internshala Details
 
-```bash
-npm run dev
-```
-#### Commit Changes:
-Once you're satisfied with your changes, commit them to your local repository:
+Name: Ziya Uddin
+Email: zu0827992@gmail.com
 
-```bash
-git add .
-git commit -m "Implemented Spotify Clone UI"
-```
-
-#### Push Changes: 
-Push your commits to your forked repository on GitHub:
-
-```bash
-git push origin main
-```
-#### Make a Pull Request:
-Finally, navigate to your forked repository on GitHub and create a pull request to submit your changes. Provide a descriptive title and details about the changes you've made. and your internshala name and email along with the PR.
-
-Resources
-[React Documentation](https://react.dev/)
-
-[Vite Documentation](https://vitejs.dev/guide/)
-
-[Tailwind CSS Documentation](https://tailwindcss.com/docs)
-
-[Spotify UI For Reference](https://open.spotify.com/)
-
-If you have any questions or need clarification on any aspect of the assignment, don't hesitate to reach out. Good luck!
