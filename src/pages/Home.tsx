@@ -1,11 +1,11 @@
 import React from "react";
 import Layout from "../layouts/Layout";
 import { albums } from "../data";
-import SongCardParent from "./ui/SongCardParent";
+import SongCardParent from "../components/ui/SongCardParent";
 
 type Props = {};
 
-const Home = ({props}: Props) => {
+const Home = ({ props }: Props) => {
   return (
     <Layout>
       <div className="space-y-10">
