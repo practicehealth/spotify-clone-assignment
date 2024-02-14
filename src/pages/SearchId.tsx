@@ -47,10 +47,6 @@ const SearchId = () => {
     setRelatedArtists(relatedArtists.slice(0, 4));
   }, [id]);
 
-  console.log("best Match: ", bestMatch);
-  console.log("related Songs: ", relatedAlbums);
-  console.log("related Artists: ", relatedArtists);
-
   useEffect(() => {
     performSearch();
   }, [performSearch]);
