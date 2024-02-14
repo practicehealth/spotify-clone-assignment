@@ -17,7 +17,7 @@ const Topbar = () => {
         </div>
       </section>
       <section className="flex gap-6 items-center">
-        <a href="" className="text-[#b3b3b3] font-bold">
+        <a href="" className="text-[#b3b3b3] font-bold hover:text-white">
           Sign Up
         </a>
         <Buttons label={"Log in"}></Buttons>
