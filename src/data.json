@@ -1,0 +1,67 @@
+{
+  "browseall": [
+    {
+      "geners": "PodCast",
+      "image": "https://i.scdn.co/image/ab6765630000ba8a81f07e1ead0317ee3c285bfa"
+    },
+    {
+      "geners": "Live Events",
+      "image": "https://i.scdn.co/image/ab6765630000ba8a81f07e1ead0317ee3c285bfa"
+    },
+    {
+      "geners": "Made For You",
+      "image": "https://i.scdn.co/image/ab6765630000ba8a81f07e1ead0317ee3c285bfa"
+    },
+    {
+      "geners": "Hindi",
+      "image": "https://i.scdn.co/image/ab6765630000ba8a81f07e1ead0317ee3c285bfa"
+    },
+    {
+      "geners": "Punjabi",
+      "image": "https://i.scdn.co/image/ab6765630000ba8a81f07e1ead0317ee3c285bfa"
+    },
+    {
+      "geners": "Tamil",
+      "image": "https://i.scdn.co/image/ab6765630000ba8a81f07e1ead0317ee3c285bfa"
+    },
+    {
+      "geners": "Gazals",
+      "image": "https://i.scdn.co/image/ab6765630000ba8a81f07e1ead0317ee3c285bfa"
+    },
+    {
+      "geners": "Podcast Charts",
+      "image": "https://i.scdn.co/image/ab6765630000ba8a81f07e1ead0317ee3c285bfa"
+    },
+    {
+      "geners": "Podcast New Charts",
+      "image": "https://i.scdn.co/image/ab6765630000ba8a81f07e1ead0317ee3c285bfa"
+    }
+  ],
+  "playlist": [
+    {
+      "name": "Feel Good Dinner",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+      "image": "https://i.scdn.co/image/ab67706f000000022ba865eb4204be02ce3e8e09"
+    },
+    {
+      "name": "Kitchen Swagger",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+      "image": "https://i.scdn.co/image/ab67706f000000028dc9fe0c14e5f34ad165e3c2"
+    },
+    {
+      "name": "Bear & wing",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+      "image": "https://i.scdn.co/image/ab67706f000000024b04e77913de1fc2a4b819df"
+    },
+    {
+      "name": "Dinner Jazz",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+      "image": "https://i.scdn.co/image/ab67706f00000002a98e80d2fc9b1cf3b80c4481"
+    },
+    {
+      "name": "Soulfull Dinner",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+      "image": "https://i.scdn.co/image/ab67706f000000024b69d5ba7d5a9940475c3ef2"
+    }
+  ]
+}
