@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+  
+@layer base {
+    @font-face {
+        font-family: "custom-font-bold";
+        src: url('/assets/fonts/CircularSp-Bold.woff2') format('woff2');
+    }
+    @font-face {
+        font-family: "custom-font-book";
+        src: url('/assets/fonts/CircularSp-Book.woff2') format('woff2');
+    }
+    @font-face {
+        font-family: "custom-font-black";
+        src: url('/assets/fonts/CircularSpTitle-Black.woff2') format('woff2');
+    }
+    @font-face {
+        font-family: "custom-font-title";
+        src: url('/assets/fonts/CircularSpTitle-Bold.woff2') format('woff2');
+    }
+    @font-face {
+        font-family: "spoticon_regular";
+        src: url('/assets/fonts/spoticon_regular.woff2') format('woff2');
+    }
+}
