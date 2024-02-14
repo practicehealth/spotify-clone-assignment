@@ -15,7 +15,7 @@ const SongCard = ({ imgUrl, type, desc }: any) => {
           className="rounded-md h-[150px] w-[150px] mb-2 object-cover top-0 left-0"
         />
         {isHovered && (
-          <button className="rounded-full bg-green-500 p-4 absolute bottom-2 right-2 z-15">
+          <button className="rounded-full bg-green-500 p-4 absolute bottom-2 right-2 z-10 animate-fade-up">
             <FaPlay className="text-black" />
           </button>
         )}
