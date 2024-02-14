@@ -1,3 +1,13 @@
+
+## Implemented all the pages including optional and the app is fully responsive in any device.
+
+- Name : Sriman Kumar Swarnkar
+- Email : srimankumar45@gmail.com
+
+- deployed link : https://sunny-boba-fd5a6c.netlify.app/
+-  To go to /searchresult page just search some and press enter.
+
+=======
 # Spotify Clone Assignment
 Welcome to the Spotify Clone assignment! In this assignment, you'll be tasked with creating a Spotify clone using React, Vite for project setup, and Tailwind CSS for styling. Your application will consist of two main pages: the homepage and the search page. Additionally, you have the option to include a third page for search results.
 
@@ -70,3 +80,4 @@ Resources
 [Spotify UI For Reference](https://open.spotify.com/)
 
 If you have any questions or need clarification on any aspect of the assignment, don't hesitate to reach out. Good luck!
+>>>>>>> upstream/main
