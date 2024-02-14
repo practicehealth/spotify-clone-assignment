@@ -11,7 +11,7 @@ interface SongItemProps {
 
 const SongCard: React.FC<SongItemProps> = ({ data }) => {
   return (
-    <div className="relative flex flex-col items-center justify-center p-3 overflow-hidden transition rounded-md cursor-pointer rounded-2xl group gap-x-4 bg-neutral-400/5 hover:bg-neutral-400/10">
+    <div className="relative flex flex-col items-center justify-center p-3 overflow-hidden transition cursor-pointer rounded-2xl group gap-x-4 bg-neutral-400/5 hover:bg-neutral-400/10">
       <div className="relative w-full h-full overflow-hidden rounded-md aspect-square">
         <img
           className="object-cover w-60 h-60"

@@ -1,8 +1,6 @@
-import React from "react";
 import Heading from "./ui/Heading";
 import Card from "./ui/Card";
 import { albumsType } from "../data";
-import SongCard from "./ui/SongCard";
 import SongCardWrapper from "./ui/SongCardWrapper";
 
 type Props = {
@@ -43,7 +41,7 @@ const SearchTerm = ({ bestMatch, relatedSongs }: Props) => {
         {relatedSongs.length > 0 ? (
           <div>
             {relatedSongs.map((item, index) => (
-              <Card className="flex items-center justify-between cursor-pointer hover:bg-secondary">
+              <Card key={index} className="flex items-center justify-between cursor-pointer hover:bg-secondary">
                 <div className="flex items-center gap-x-4">
                   <img src={item.image} alt={item.name} className="w-10 h-10" />
                   <div>

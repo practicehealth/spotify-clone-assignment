@@ -1,4 +1,3 @@
-import React from "react";
 import { albumsType } from "../../data";
 import SongCard from "./SongCard";
 import { Button } from "./Button";

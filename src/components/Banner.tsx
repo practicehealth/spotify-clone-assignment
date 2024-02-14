@@ -1,9 +1,6 @@
-import React from "react";
 import { Button } from "./ui/Button";
 
-type Props = {};
-
-const Banner = (props: Props) => {
+const Banner = () => {
   return (
     <div className="fixed bottom-0 w-full bg-gradient-to-r from-purple-500 to-blue-500">
       <div className="container flex items-center justify-between px-8 py-2.5 mx-auto">

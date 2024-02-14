@@ -7,7 +7,6 @@ import Artist from '../assets/6.jpg'
 import Artist1 from '../assets/7.jpg'
 import Artist2 from '../assets/8.jpg'
 import Artist3 from '../assets/9.jpg'
-import Artist4 from '../assets/10.jpg'
 
 
 export type albumsType = {

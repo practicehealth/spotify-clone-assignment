@@ -1,33 +1,3 @@
-// import React from "react";
-// import { cn } from "../../utils";
-// import Card from "../ui/Card";
-// import { FaSpotify } from "react-icons/fa";
-
-// type Props = {
-//   isSidebarOpen: boolean;
-//   setSidebarOpen: React.Dispatch<boolean>;
-// };
-
-// const Sidebar = ({ isSidebarOpen, setSidebarOpen }: Props) => {
-//   return (
-//     <div
-//       className={cn(
-//         `transform top-0 space-y-4 left-0 w-64 p-4 fixed h-full overflow-auto transition-transform duration-300 ease-in-out`,
-//         isSidebarOpen ? "translate-x-0" : "-translate-x-full md:translate-x-0"
-//       )}
-//     >
-//       {/* <Card>
-//         <p className="flex items-center text-xl gap-x-1">
-//           <FaSpotify className="text-2xl" />
-//           <span className="text-bold">Spotify</span>
-//         </p>
-//       </Card> */}
-//     </div>
-//   );
-// };
-
-// export default Sidebar;
-
 import React from "react";
 import { Link, useLocation } from "react-router-dom";
 import { FaPlus, FaSpotify } from "react-icons/fa6";

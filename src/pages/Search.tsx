@@ -1,18 +1,16 @@
-import React from "react";
 import Layout from "../layouts/Layout";
 import { browseAll } from "../data/browseAll";
 import { cn } from "../utils";
 
-type Props = {};
-
-const Search = (props: Props) => {
+const Search = () => {
   return (
     <Layout>
       <div className="mt-6 ml-4 space-y-4">
         <h3 className="text-2xl font-bold text-white">Browse all</h3>
         <div className="grid grid-cols-5 gap-6">
-          {browseAll?.map((item) => (
+          {browseAll?.map((item,index) => (
             <div
+            key={index}
               className={cn(
                 `w-52 h-52 rounded-md py-2 px-4 relative overflow-hidden cursor-pointer`,
                 item.color

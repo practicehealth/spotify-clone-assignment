@@ -1,4 +1,4 @@
-import React, { useCallback, useEffect, useState } from "react";
+import { useCallback, useEffect, useState } from "react";
 import Layout from "../layouts/Layout";
 import { useParams } from "react-router-dom";
 import Card from "../components/ui/Card";
@@ -10,9 +10,7 @@ import SearchTerm from "../components/SearchTerm";
 import Heading from "../components/ui/Heading";
 import SongCardWrapper from "../components/ui/SongCardWrapper";
 
-type Props = {};
-
-const SearchId = (props: Props) => {
+const SearchId = () => {
   const { id } = useParams();
   const [bestMatch, setBestMatch] = useState<albumsType | null>(null);
   const [relatedAlbums, setRelatedAlbums] = useState<albumsType[]>([]);
@@ -78,7 +76,7 @@ const SearchId = (props: Props) => {
           <Heading text="Artists" />
           <div className="grid grid-cols-5 gap-x-6">
             {relatedArtists?.map((item, index) => (
-              <SongCardWrapper className="h-60">
+              <SongCardWrapper key={index} className="h-60">
                 <div className="relative w-full h-full space-y-2 overflow-hidden rounded-md aspect-square">
                   <div className="flex flex-col items-center justify-center">
                     <img
