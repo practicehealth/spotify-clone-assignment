@@ -70,7 +70,7 @@ const Footer = () => {
           </ul>
         </div>
       </section>
-      <hr className="text-[#b3b3b3] mx-10" />
+      <hr className="mx-10 border-none h-[1px] bg-gradient-to-r from-transparent via-gray-300 to-transparent" />
       <section>
         <p className="h-[180px] px-8 pt-10 text-[#b3b3b3] text-sm font-semibold">
           © 2024 Spotify AB
