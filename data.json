@@ -1,0 +1,59 @@
+{
+    "SpotifyPlaylists": [
+        {
+            "title": "Today's Top Hits",
+            "description": "Benson Boone is on top of the Hottest 50!",
+            "imageUrl": "assets/sleep-1.jpeg"
+        },
+        {
+            "title": "Chillhop",
+            "description": "Blissed out beats and head nodding grooves",
+            "imageUrl": "assets/sleep-1.jpeg"
+        },
+        {
+            "title": "Jazz in the Background",
+            "description": "Soft Instrumental Jazz for all your activities",
+            "imageUrl": "assets/sleep-1.jpeg"
+        },
+        {
+            "title": "Calming Acoustic",
+            "description": "Keep calm with instrumental acoustic",
+            "imageUrl": "assets/sleep-1.jpeg"
+        },
+        {
+            "title": "big on the internet",
+            "description": "iykyk",
+            "imageUrl": "assets/sleep-1.jpeg"
+        }
+    ],
+    "Sleep": [
+        {
+            "title": "Sleep",
+            "description": "Gentle Ambient piano to help you fall asleep.",
+            "imageUrl": "assets/sleep-1.jpeg"
+        },
+        {
+            "title": "DayDreamer",
+            "description": "Drift away with enthralling instruments",
+            "imageUrl": "assets/sleep-1.jpeg"
+        }
+    ],
+    "Categories": [
+        {
+            "title": "Podcasts",
+            "color": "#ff0000"
+        },
+        {
+            "title": "Events",
+            "color": "#DA401F"
+        },
+        {
+            "title": "Hindi",
+            "color": "#204BEB"
+        },
+        {
+            "title": "Trending",
+            "color": "#EB2042"
+        }
+    ]
+}
