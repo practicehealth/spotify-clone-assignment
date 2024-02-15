@@ -1,0 +1,76 @@
+{
+  "general": [
+    {
+      "id": 1,
+      "name": "Sleep",
+      "description": "Gentle ambient piano to help you sleep",
+      "image": "https://i.scdn.co/image/ab67706f0000000281722192322800ae99c2ed06",
+      "href": "https://google.com"
+    },
+    {
+      "id": 2,
+      "name": "Night Rain",
+      "description": "Sleep with sounds of pouring rain and ...",
+      "image": "https://i.scdn.co/image/ab67706f000000028998614b3281e12596844039",
+      "href": "#"
+    },
+    {
+      "id": 3,
+      "name": "Deep Sleep",
+      "description": "Soothing, minimalist ambient of deep sleep",
+      "image": "https://i.scdn.co/image/ab67706f000000027da11e4e02c0da2f543ea20f",
+      "href": "#"
+    },
+    {
+      "id": 4,
+      "name": "White Noise 10 Hours",
+      "description": "Ten hours long continous white noise",
+      "image": "https://i.scdn.co/image/ab67706f00000002e3c324443862abeb46220f00",
+      "href": "#"
+    },
+    {
+      "id": 5,
+      "name": "Jazz for Sleep",
+      "description": "Let these calm Jazz trackd lul you to sleep",
+      "image": "https://i.scdn.co/image/ab67706f00000002008092db062ae57983ed0141",
+      "href": "#"
+    }
+  ],
+  "sleep": [
+    {
+      "id": 6,
+      "name": "Brown Noise",
+      "description": "Soothing low frequencies for...",
+      "image": "https://i.scdn.co/image/ab67706f00000002fbf8dcb03962d651152e64a4",
+      "href": "#"
+    },
+    {
+      "id": 7,
+      "name": "Nightstorms",
+      "description": "12 hours of comforting sounds of thunder and...",
+      "image": "https://i.scdn.co/image/ab67706f00000002d9e758880a1effe4f5d62062",
+      "href": "#"
+    },
+    {
+      "id": 8,
+      "name": "Pink Noise 10 Hours",
+      "description": "The perfect frequency for sleep and study",
+      "image": "https://i.scdn.co/image/ab67706f000000023a6b28e001177d865cbbc073",
+      "href": "#"
+    },
+    {
+      "id": 9,
+      "name": "Dreamy Firest Music",
+      "description": "Wander into magical mix of music, water ...",
+      "image": "https://i.scdn.co/image/ab67706f0000000275da071e376f9e6bf9c05713",
+      "href": "#"
+    },
+    {
+      "id": 10,
+      "name": "Lofi Sleep",
+      "description": "Instrumental beats for a restful night's sleep",
+      "image": "https://i.scdn.co/image/ab67706f000000027e858e4098c8a256ca51d770",
+      "href": "#"
+    }
+  ]
+}
