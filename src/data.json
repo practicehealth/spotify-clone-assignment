@@ -1,0 +1,439 @@
+{
+  "playlists": [
+    {
+      "id": "37i9dQZF1DWWQRwui0ExPn",
+      "title": "lofi beats",
+      "artist": "chill beats, lofi vibes, new tracks every week... ",
+      "artwork": "https://i.scdn.co/image/ab67706f0000000254473de875fea0fd19d39037"
+    },
+    {
+      "id": "37i9dQZF1DXcBWIGoYBM5M",
+      "title": "Today’s Top Hits",
+      "artist": "Benson Boone is on top of the Hottest 50!",
+      "artwork": "https://i.scdn.co/image/ab67706f00000002af29338e415c87776e74a574"
+    },
+    {
+      "id": "37i9dQZF1DWTvNyxOwkztu",
+      "title": "Chillout Lounge",
+      "artist": "Just lean back and enjoy relaxed beats.",
+      "artwork": "https://i.scdn.co/image/ab67706f00000002dec17246891b5b4eb97bdb0d"
+    },
+    {
+      "id": "37i9dQZF1DX2M1RktxUUHG",
+      "title": "All Out 2020s",
+      "artist": "The biggest songs of the 2020s.",
+      "artwork": "https://i.scdn.co/image/ab67706f00000002d771dc645afe9b87978b1d3e"
+    },
+    {
+      "id": "37i9dQZF1DWV7EzJMK2FUI",
+      "title": "Jazz in the Background",
+      "artist": "Soft instrumental Jazz for all your activities.",
+      "artwork": "https://i.scdn.co/image/ab67706f00000002bdeb1c317ac2dd10f2397e4c"
+    },
+    {
+      "id": "37i9dQZF1DX4WYpdgoIcn6",
+      "title": "Chill Hits",
+      "artist": "Kick back to the best new and recent chill hits.",
+      "artwork": "https://i.scdn.co/image/ab67706f00000002f4d83a6cb7f51f6d9f6717de"
+    },
+    {
+      "id": "37i9dQZF1DX4sWSpwq3LiO",
+      "title": "Peaceful Piano",
+      "artist": "Peaceful piano to help you slow down, breathe, and relax. ",
+      "artwork": "https://i.scdn.co/image/ab67706f00000002d073e656e546e43bc387ad79"
+    },
+    {
+      "id": "37i9dQZF1DWXRqgorJj26U",
+      "title": "Rock Classics",
+      "artist": "Rock legends & epic songs that continue to inspire generations. Cover: Foo Fighters",
+      "artwork": "https://i.scdn.co/image/ab67706f0000000278b4745cb9ce8ffe32daaf7e"
+    },
+    {
+      "id": "37i9dQZF1DWXe9gFZP0gtP",
+      "title": "Stress Relief",
+      "artist": "Calm your mind from anxiety with gentle piano and ambient music.",
+      "artwork": "https://i.scdn.co/image/ab67706f00000002468762ec9fd93a2dc3b167ee"
+    },
+    {
+      "id": "37i9dQZF1DX4UtSsGT1Sbe",
+      "title": "All Out 80s",
+      "artist": "The biggest songs of the 1980s. Cover: Michael Jackson.",
+      "artwork": "https://i.scdn.co/image/ab67706f000000027876fe166a29b8e6b8db14da"
+    }
+  ],
+  "songs": [
+    {
+      "id": "1",
+      "title": "Believer",
+      "artist": "Imagine Dragons",
+      "artwork": "https://upload.wikimedia.org/wikipedia/he/5/5c/Imagine-Dragons-Believer-art.jpg"
+    },
+    {
+      "id": "2",
+      "title": "Shortwave",
+      "artist": "Ryan Grigdry",
+      "artwork": "https://m.media-amazon.com/images/M/MV5BZWUxOWIzOTYtMjBhYy00MWFiLWEzYTgtMzRiOTExOTA1ZWQ4XkEyXkFqcGdeQXVyNjI2ODA4MDU@._V1_.jpg"
+    },
+    {
+      "id": "3",
+      "title": "Origins",
+      "artist": "Imagine Dragons",
+      "artwork": "https://upload.wikimedia.org/wikipedia/en/9/95/Origins_cover.png"
+    },
+    {
+      "id": "4",
+      "title": "One Life",
+      "artist": "Mike Perry",
+      "artwork": "https://images.genius.com/5503afff8cf62a25d493d058f1764345.1000x1000x1.jpg"
+    },
+    {
+      "id": "5",
+      "title": "Fire On Up",
+      "artist": "Paper Kings",
+      "artwork": "https://cdn.musicbed.com/image/upload/c_fill,dpr_auto,f_auto,g_auto,q_40,w_630,h_630/v1567689411/production/albums/5173"
+    },
+    {
+      "id": "6",
+      "title": "Here With Me",
+      "artist": "Marshmello feat. CHVRCHES",
+      "artwork": "https://upload.wikimedia.org/wikipedia/en/b/b8/Marshmello_featuring_Chvrches_-_Here_with_Me.png"
+    },
+    {
+      "id": "8",
+      "title": "Something In The Way",
+      "artist": "Nirvana",
+      "artwork": "https://upload.wikimedia.org/wikipedia/en/b/b7/NirvanaNevermindalbumcover.jpg"
+    }
+  ],
+  "genres": [
+    {
+      "id": "1",
+      "name": "Happy Holidays",
+      "img": 1,
+      "bgColor": "#006450"
+    },
+    {
+      "id": "2",
+      "name": "Made for you",
+      "img": 2,
+      "bgColor": "#8400e7"
+    },
+    {
+      "id": "3",
+      "name": "Releases",
+      "img": 3,
+      "bgColor": "#1e3264"
+    },
+    {
+      "id": "4",
+      "name": "Creators",
+      "img": 4,
+      "bgColor": "#ff8c00"
+    },
+    {
+      "id": "5",
+      "name": "To Train",
+      "img": 5,
+      "bgColor": "#8c1932"
+    },
+    {
+      "id": "6",
+      "name": "Podcasts",
+      "img": 6,
+      "bgColor": "#e8115b"
+    },
+    {
+      "id": "7",
+      "name": "Country Side",
+      "img": 7,
+      "bgColor": "#537aa1"
+    },
+    {
+      "id": "8",
+      "name": "Samba & Pagode",
+      "img": 8,
+      "bgColor": "#8e66ac"
+    },
+    {
+      "id": "9",
+      "name": "funk",
+      "img": 9,
+      "bgColor": "#148a08"
+    },
+    {
+      "id": "10",
+      "name": "MBP",
+      "img": 10,
+      "bgColor": "#8c1932"
+    },
+    {
+      "id": "11",
+      "name": "Rock",
+      "img": 11,
+      "bgColor": "#e91529"
+    },
+    {
+      "id": "12",
+      "name": "Hip Hop",
+      "img": 12,
+      "bgColor": "#503750"
+    },
+    {
+      "id": "13",
+      "name": "Indie",
+      "img": 13,
+      "bgColor": "#d84000"
+    },
+    {
+      "id": "14",
+      "name": "Relax",
+      "img": 14,
+      "bgColor": "#ba5d07"
+    },
+    {
+      "id": "15",
+      "name": "Latin Music",
+      "img": 15,
+      "bgColor": "#001e50"
+    }
+  ],
+  "albums": [
+    {
+      "name": "La Tresse (Original Motion Picture Soundtrack)",
+      "id": "6HBW4VCennw5rKtdCynJyC",
+      "cover": "https://i.scdn.co/image/ab67616d0000b27394b7da38b41c6e315fb9979c"
+    },
+    {
+      "name": "Fragments of Peace",
+      "id": "5hUOEnlLRBHDiJebHxl8GO",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2731672dc264c507db89fff3d26"
+    },
+    {
+      "name": "La Petite (Original Motion Picture Soundtrack)",
+      "id": "4mTqEpxEYnbCv6G76WvXrX",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273612e70607fb5d54e0a998bda"
+    },
+    {
+      "name": "In A Time Lapse (Deluxe)",
+      "id": "1yZUo1cSO9NYWgNetRkDnJ",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2736a40ed3cc4955be5cc406900"
+    },
+    {
+      "name": "Like A Breath",
+      "id": "21nVu97zIEmuusXhBFKBSy",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2738fc21cad5fb58d423675c948"
+    },
+    {
+      "name": "Velvet Road",
+      "id": "5SabDF53NWopX6Z9CB4qqF",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2736648c128d2d740f673bd0947"
+    },
+    {
+      "name": "Undiscovered Vol.2",
+      "id": "6wj5CvFjtpFIk6AjAYfOcG",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273f49ac6ccf5dc5815942daadd"
+    },
+    {
+      "name": "Sounds of Calm",
+      "id": "6huQIfrZgnF3EvT2VNe7Oa",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273ef10395a8f710b98cb3e4ae9"
+    },
+    {
+      "name": "Music of Care",
+      "id": "3ZMw3jfq4MTYJHMEdeTZ3s",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273eccde108f9f8c0df69bdda64"
+    },
+    {
+      "name": "Moments of Peace",
+      "id": "2530prY0HWeOPLWq4q2NTa",
+      "cover": "https://i.scdn.co/image/ab67616d0000b27381fd9e625268bea19cfe6113"
+    },
+    {
+      "name": "Underwater",
+      "id": "3DT821mYJb7Ore88vA8IOO",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273408d7d006c76db07d50a7459"
+    },
+    {
+      "name": "Cinema",
+      "id": "2zMtXfGkXIlc3dWXxHmSEX",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2735aab11e6bda5e30aadb0e3e4"
+    },
+    {
+      "name": "12 Songs From Home",
+      "id": "5jxMth5zvt6qZId5Llplqi",
+      "cover": "https://i.scdn.co/image/ab67616d0000b27396e41f49a103054c14be142e"
+    },
+    {
+      "name": "Seven Days Walking",
+      "id": "5Otajf16kZ0zkVZWhu7LtO",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273940a1931de313e942aace803"
+    },
+    {
+      "name": "Seven Days Walking (Day 7)",
+      "id": "4GEcFHTB7y9N8ciFFDIikp",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2733ef6ef5d58744d49375cbe28"
+    },
+    {
+      "name": "Seven Days Walking (Day 6)",
+      "id": "4KmdX0Ze23u3XBzScfB3jP",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2730d870770934ec20af4b3dc9e"
+    },
+    {
+      "name": "Seven Days Walking (Day 5)",
+      "id": "6RrmFm7D89gVzt5iiUR4sL",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273a70323cf1fa1cef30fdec369"
+    },
+    {
+      "name": "Seven Days Walking (Day 4)",
+      "id": "14qrn11zrDzT1I5vS1O4tN",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2739ae155976731d2dafc8c772a"
+    },
+    {
+      "name": "Seven Days Walking (Day 3)",
+      "id": "01u5oRKIW5wVrl2Ydg2EW5",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273f7914e63ebe97f06b44b12f8"
+    },
+    {
+      "name": "Seven Days Walking (Day 2)",
+      "id": "4GRrwMMcFXZUGIPX6ltBj5",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273bc37ed70ffc75280fe3f562a"
+    },
+    {
+      "name": "Seven Days Walking (Day 1)",
+      "id": "1m4GKm4lVNZdA4dHwcr8of",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2731abc551339f54b9d30b058b9"
+    },
+    {
+      "name": "Giorni dispari (Original Motion Picture Soundtrack)",
+      "id": "4GRVLkYTqxEYBrq3XQDAQa",
+      "cover": "https://i.scdn.co/image/ab67616d0000b27357cfc63abfa8cbb7aab3acec"
+    },
+    {
+      "name": "Elements (Deluxe)",
+      "id": "5jzohQ50TA36qTumAG1rEA",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273494e91bfd7692054715ba845"
+    },
+    {
+      "name": "Taranta Project",
+      "id": "0pKJAvZe9BYhubLv5apF29",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273eba077bf2d712098626f626a"
+    },
+    {
+      "name": "Spheres - Einaudi, Glass, Nyman, Pärt, Richter",
+      "id": "54S4fuyWuPG2mZQfssJbH5",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2730eeb0b6fdda136f42a694674"
+    },
+    {
+      "name": "In A Time Lapse - The Remixes",
+      "id": "6u5VYP6DGkgfHMSlK0kVv7",
+      "cover": "https://i.scdn.co/image/ab67616d0000b27301d1d674875953bfb69f477e"
+    },
+    {
+      "name": "In A Time Lapse (Deluxe Edition)",
+      "id": "62dvhzEC1RtHI7tIpE4EmL",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273b3bda04d2e34cc88118b1948"
+    }
+  ],
+  "artists": [
+    {
+      "id": "00sazWvoTLOqg5MFwC68Um",
+      "name": "Yann Tiersen",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb68f9f1d20b6ad0f4c4c27ba6"
+    },
+    {
+      "id": "2VZNmg4vCnew4Pavo8zDdW",
+      "name": "Max Richter",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb1476a56321d66220e391d1c8"
+    },
+    {
+      "id": "7E3BRXV9ZbCt5lQTCXMTia",
+      "name": "Ólafur Arnalds",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb7d901cbff8cb882e7ba4e5f3"
+    },
+    {
+      "id": "0YC192cP3KPCRWx8zr8MfZ",
+      "name": "Hans Zimmer",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb371632043a8c12bb7eeeaf9d"
+    },
+    {
+      "id": "59r5UU2HOytn9V5uMZ5Vur",
+      "name": "Daniel Hope",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb25514872e368705886d72776"
+    },
+    {
+      "id": "2VKfXEWzhUi9siHBDTI02Y",
+      "name": "Joep Beving",
+      "image": "https://i.scdn.co/image/ab6761610000e5ebc53c80b658873b89378fad4f"
+    },
+    {
+      "id": "0jrFMgW018F1XVnLtCXOKi",
+      "name": "Fabrizio Paterlini",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb1526f41ecfc2268c8bea4fc9"
+    },
+    {
+      "id": "1k1AM2ESRQseVAj6rvBdtx",
+      "name": "I Virtuosi Italiani",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb72e8fee8cbf1205f27ad216c"
+    },
+    {
+      "id": "5gqhueRUZEa7VDnQt4HODp",
+      "name": "Nils Frahm",
+      "image": "https://i.scdn.co/image/ab6761610000e5ebd07e87d9e0ef9006ff999f80"
+    },
+    {
+      "id": "359LKbZWLk6u3IpyNE2CQG",
+      "name": "Roberto Cacciapaglia",
+      "image": "https://i.scdn.co/image/ab6761610000e5ebb11448edd63e2b2a19000e4b"
+    },
+    {
+      "id": "6UEYawMcp2M4JFoXVOtZEq",
+      "name": "Dustin O'Halloran",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb461041331a52fce140655025"
+    },
+    {
+      "id": "69lxxQvsfAIoQbB20bEPFC",
+      "name": "Philip Glass",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb6165e2f3712049f0b05f36a0"
+    },
+    {
+      "id": "2LvhyFvUCDJ7gFuEBOcrM8",
+      "name": "Michael Nyman",
+      "image": "https://i.scdn.co/image/6ae99c97bb92fa4c003a667834a704449ea7837f"
+    },
+    {
+      "id": "3IpQziA6YwD53PQ5xbwgLF",
+      "name": "Jóhann Jóhannsson",
+      "image": "https://i.scdn.co/image/ab6761610000e5ebd48e69f1a6285f43905ad89b"
+    },
+    {
+      "id": "32ogthv0BdaSMPml02X9YB",
+      "name": "The Cinematic Orchestra",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb9e2576943e27fcddc3bb3646"
+    },
+    {
+      "id": "0fauHpmSHwodVYIjTqOGHz",
+      "name": "Yiruma",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb4e45a9bfdc9dc3095d684b83"
+    },
+    {
+      "id": "1rKrEdI6GKirxWHxIUPYms",
+      "name": "Agnes Obel",
+      "image": "https://i.scdn.co/image/ab6761610000e5ebcae92f295421692697e3235b"
+    },
+    {
+      "id": "4cU35zPQE7ZwPk72IM4wHv",
+      "name": "Giovanni Allevi",
+      "image": "https://i.scdn.co/image/ab6761610000e5eba0a88ac30d85d415605ee367"
+    },
+    {
+      "id": "58R31AvN8JMHM7xkNpVLjX",
+      "name": "Alexis Ffrench",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb3aab8420e178b7064b5e3185"
+    },
+    {
+      "id": "459INk8vcC0ebEef82WjIK",
+      "name": "Erik Satie",
+      "image": "https://i.scdn.co/image/05107530f1e0d55767a75276343096549d9bc6ae"
+    }
+  ]
+}
