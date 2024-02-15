@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Spotify Playlists",
+    "playlist": [
+      {
+        "title": "lofi beats",
+        "img": "https://i.scdn.co/image/ab67706f0000000254473de875fea0fd19d39037",
+        "subTitle": "chill beats, lofi vibes, new tracks every week"
+      },
+      {
+        "title": "Today's Top Hits",
+        "img": "https://i.scdn.co/image/ab67706f00000002af29338e415c87776e74a574",
+        "subTitle": "Benson Boone is on top of the Hottest 50!"
+      },
+      {
+        "title": "Chill Hope",
+        "img": "https://i.scdn.co/image/ab67706f00000002dec17246891b5b4eb97bdb0d",
+        "subTitle": "Just lean back and enjoy relaxed beats."
+      },
+      {
+        "title": "All Out 2020s",
+        "img": "https://i.scdn.co/image/ab67706f00000002d771dc645afe9b87978b1d3e",
+        "subTitle": "The biggest songs of the 2020s."
+      },
+      {
+        "title": "big on the internet",
+        "img": "https://i.scdn.co/image/ab67706f00000002468762ec9fd93a2dc3b167ee",
+        "subTitle": "iykyk"
+      }
+    ]
+  },
+  {
+    "title": "Sleep",
+    "playlist": [
+      {
+        "title": "Day Dreamer",
+        "img": "https://i.scdn.co/image/ab67706f00000002468762ec9fd93a2dc3b167ee",
+        "subTitle": "Calm your mind from anxiety with gentle piano and ambient music."
+      },
+      {
+        "title": "Sleep",
+        "img": "https://i.scdn.co/image/ab67706f00000002d073e656e546e43bc387ad79",
+        "subTitle": "Peaceful piano to help you slow down, breathe, and relax."
+      }
+    ]
+  }
+]
