@@ -1,0 +1,132 @@
+{
+  "playlist": [
+    {
+      "title": "Today's Top Hits",
+      "description": "Benson Boone is on the top of the Hottest 50!",
+      "imgLink": "https://i.scdn.co/image/ab67706f00000002d2291e0c5d43a1b21a941031"
+    },
+    {
+      "title": "Lofi beats",
+      "description": "Chill beats, lofi vibes",
+      "imgLink": "https://i.scdn.co/image/ab67706f0000000254473de875fea0fd19d39037"
+    },
+    {
+      "title": "Chillout Lounge",
+      "description": "Blissed out beats and nodding grooves",
+      "imgLink": "https://i.scdn.co/image/ab67706f00000002dec17246891b5b4eb97bdb0d"
+    },
+    {
+      "title": "Jazz",
+      "description": "Soft intrumental jazz",
+      "imgLink": "https://i.scdn.co/image/ab67706f00000002bdeb1c317ac2dd10f2397e4c"
+    },
+    {
+      "title": "All out 2020s",
+      "description": "The biggest songs of 2020s",
+      "imgLink": "https://i.scdn.co/image/ab67706f00000002d771dc645afe9b87978b1d3e"
+    }
+  ],
+
+  "SearchData": [
+    {
+      "category": "Podcasts",
+      "imgLink": "https://i.scdn.co/image/ab6765630000ba8a81f07e1ead0317ee3c285bfa",
+      "color": "#006450"
+    },
+    {
+      "category": "Live Events",
+      "imgLink": "https://concerts.spotifycdn.com/images/live-events_category-image.jpg",
+      "color": "#8400E7"
+    },
+    {
+      "category": "Made For You",
+      "imgLink": "https://t.scdn.co/images/ea364e99656e46a096ea1df50f581efe",
+      "color": "#1E3264"
+    },
+    {
+      "category": "New Releases",
+      "imgLink": "https://i.scdn.co/image/ab67706f000000027ea4d505212b9de1f72c5112",
+      "color": "#E8115B"
+    },
+    {
+      "category": "Hindi",
+      "imgLink": "https://i.scdn.co/image/ab67fb8200005caff5976b97bcf10d98acbae2cd",
+      "color": "#DC148C"
+    },
+    {
+      "category": "Punjabi",
+      "imgLink": "https://i.scdn.co/image/ab67706f00000002461fda205f5f952eff8bae70",
+      "color": "#B02897"
+    },
+    {
+      "category": "Tamil",
+      "imgLink": "https://i.scdn.co/image/ab67fb8200005caf4b3beede484da74b233fa299",
+      "color": "#A56752"
+    },
+    {
+      "category": "Ghazals",
+      "imgLink": "https://i.scdn.co/image/ab67fb8200005caf666a4ae3e6161da7a120ca14",
+      "color": "#777777"
+    },
+    {
+      "category": "Podcast Charts",
+      "imgLink": "https://t.scdn.co/images/7262179db37c498480ef06bfacb60310.jpeg",
+      "color": "#0D73EC"
+    },
+    {
+      "category": "Podcast New Releases",
+      "imgLink": "https://t.scdn.co/images/209c867f5bb34076b0dcc9deeb1868e6",
+      "color": "#8E66AC"
+    },
+    {
+      "category": "Video Podcasts",
+      "imgLink": "https://i.scdn.co/image/9af79fd06e34dea3cd27c4e1cd6ec7343ce20af4",
+      "color": "#E13300"
+    },
+    {
+      "category": "Business & Technology",
+      "imgLink": "https://i.scdn.co/image/e227cd9674618024276c65f1213fb05af34cf512",
+      "color": "#777777"
+    },
+    {
+      "category": "Charts",
+      "imgLink": "https://charts-images.scdn.co/assets/locale_en/regional/weekly/region_global_default.jpg",
+      "color": "#8D67AB"
+    },
+    {
+      "category": "Telugu",
+      "imgLink": "https://i.scdn.co/image/ab67fb8200005cafbca4d84993408c24bec78de8",
+      "color": "#1E3264"
+    },
+    {
+      "category": "Pop",
+      "imgLink": "https://i.scdn.co/image/ab67fb8200005cafa862ab80dd85682b37c4e768",
+      "color": "#148A08"
+    },
+    {
+      "category": "Indie",
+      "imgLink": "https://i.scdn.co/image/ab67fb8200005cafa1a252e3a815b65778d8c2aa",
+      "color": "#E91429"
+    },
+    {
+      "category": "Love",
+      "imgLink": "https://i.scdn.co/image/ab67fb8200005cafb03c6f8e7efca2ae36f41b31",
+      "color": "#E61E32"
+    },
+    {
+      "category": "Discover",
+      "imgLink": "https://t.scdn.co/images/d0fb2ab104dc4846bdc56d72b0b0d785.jpeg",
+      "color": "#8D67AB"
+    },
+    {
+      "category": "Trending",
+      "imgLink": "https://i.scdn.co/image/ab67fb8200005caf1867113f5218598847550acd",
+      "color": "#B02897"
+    },
+    {
+      "category": "Mood",
+      "imgLink": "https://i.scdn.co/image/ab67fb8200005caf271f9d895003c5f5561c1354",
+      "color": "#E1118C"
+    }
+  ]
+}
