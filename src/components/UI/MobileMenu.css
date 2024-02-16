@@ -1,0 +1,50 @@
+.nav_hamburger {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  z-index: 101;
+  width: 24px;
+  height: 24px;
+  right: 5%;
+  top: 3%;
+  cursor: pointer;
+  /* position: fixed; */
+}
+
+/* Style the hamburger and cross icons */
+.nav_hamburger img {
+  width: 100%;
+  height: auto;
+}
+
+.menu {
+  width: 100%;
+  height: 100%;
+  padding: 56px 40px;
+  transition: transform 0.5s ease;
+  background-color: black;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 100;
+  align-items: center;
+}
+
+.nav_list ul {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+}
+
+.nav_list ul li {
+  color: white;
+  cursor: pointer;
+  font-size: 1.5rem;
+  font-weight: 700;
+  text-align: left;
+  transition: 0.5s ease all;
+  padding-top: 12px;
+  padding-bottom: 12px;
+}
+
