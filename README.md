@@ -1,4 +1,4 @@
-# Spotify Clone Assignment
+# Spotify Clone Assignment.
 Welcome to the Spotify Clone assignment! In this assignment, you'll be tasked with creating a Spotify clone using React, Vite for project setup, and Tailwind CSS for styling. Your application will consist of two main pages: the homepage and the search page. Additionally, you have the option to include a third page for search results.
 
 ## Instructions
