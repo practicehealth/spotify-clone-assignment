@@ -8,7 +8,7 @@ interface props {
 
 const SongCard: React.FC<props> = ({ image, title, para }) => {
   return (
-    <div className="bg-[#1b1b1b] w-48 rounded-lg flex text-white">
+    <div className="bg-[#1b1b1b] w-44 rounded-lg flex text-white">
       <div className="m-3  ">
         <img
           src={image}
