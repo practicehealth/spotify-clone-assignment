@@ -1,0 +1,13 @@
+.card:hover{
+    cursor: pointer;
+    background-color: #282828;
+    transition: all ease-in-out .3s;
+}
+.btn{
+    display: none!important;
+}
+.card:hover .btn{
+    display: block!important;
+    transition: all ease-in-out .3s ;
+    
+}
