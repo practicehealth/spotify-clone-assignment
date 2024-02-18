@@ -1,4 +1,3 @@
-import React from 'react'
 import Sidebar from '../Components/Sidebar';
 import {data} from '../data/Searchpagedata'
 import Searchpagecard from '../Components/Searchpagecard';
@@ -42,7 +41,7 @@ const Searchpage = () => {
        <div className='grid sm:grid-cols-2  md:grid-cols-3 lg:grid-cols-6 z-1 ml-[10px] gap-2 '>
            {
                data.map((item:Searchdata)=>(
-                   <Searchpagecard color={item.color} title={item.title} url={item.url} />
+                   <Searchpagecard color={item.color ?? 'defaultColor'}  title={item.title} url={item.url} />
                ))
            }
        </div>

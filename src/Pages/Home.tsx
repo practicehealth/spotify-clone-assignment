@@ -1,11 +1,4 @@
-import React from "react";
 import Sidebar from "../Components/Sidebar";
-import Navbar from "../Components/Navbar";
-import Romantic from "../Assets/Images/Romantic.jpg";
-import dance from "../Assets/Images/dance.jpg";
-import Liked from "../Assets/Images/likedsongs.jpg";
-import neffex from "../Assets/Images/neffex.jpg";
-import kda from "../Assets/Images/kda.jpg";
 import { data } from "../data/Homeoverviewdata";
 import Card from "../Components/Card/Card";
 import Lefticon from "../Assets/Icons/Lefticon";
