@@ -23,10 +23,10 @@ const Home = () => {
           <Righticon />
         </div>
       </div>
-      <div className="flex items-center gap-6 ml-auto mr-8 ">
+      <div className="flex items-center gap-6 ml-auto mr-8">
         <h1 className="text-gray-500 font-bold text-[8px] md:text-[14px] ">Sign Up</h1>
         <div className="bg-white rounded-full justify-center flex items-center h-[24px] w-[80px] md:h-[48px] md:w-[110px]">
-          <h1 className="text-black  font-semibold text-[10px] md:text-[19px] ">Login </h1>
+          <h1 className="text-black  font-semibold text-[10px] md:text-[19px] ">Login</h1>
         </div>
       </div>
          </div>
