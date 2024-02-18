@@ -1,4 +1,4 @@
-import React from 'react'
+
 import Icon from '../../Types/Icon'
 
 
