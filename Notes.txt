@@ -1,0 +1,16 @@
+
+Responsive pages 
+-- tablet, phone, desktop 
+
+What i need 
+-- home page 
+-- search page 
+-- search result page 
+
+Side bar Components 
+-- menu components [ spotify , home, search  ]
+-- libaray components []
+-- sidebar footer [ ]
+
+Main background color 
+-- text-gray-950 = background-color: rgb(3 7 18);
